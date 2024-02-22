@@ -1,4 +1,4 @@
-<img src="http://www.cems.uwe.ac.uk/~pa-legg/images/uwe_banner.png">
+<img src="./Data/uwe_top_process.jpeg">
 
 # UFCE4B-60-M - Cyber security research paper 22sep_1
 
