@@ -1,0 +1,16 @@
+Hi Emily,
+
+I hope this message finds you well. My name is Greg, a representative at XYZ-Edu. Having reviewed your profile, I can see that you're passionate about cyber security, with a particular focus on threat analysis and defence. 
+
+I believe our course, Practical Malware Analysis & Triage, could really complement your current skill set. It offers in-depth training on malware analysis techniques, providing you with the practical know-how to create analysis labs, either locally or on a cloud-based network. 
+
+Given your commitment to building strong security postures, this course will provide substantial value, enhancing your understanding and ability to analyse malware effectively. Here's the course URL for your reference: https://academy.xyz-edu.com/p/practical-malware-analysis-triage
+
+As a token of appreciation for your dedication to cybersecurity, we're offering a 20% discount to the first 100 students who enrol. 
+
+Feel free to unsubscribe if you wish not to receive such emails in the future: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you, Emily, and we hope to see you on the course soon.
+
+Best regards,
+Greg

@@ -1,0 +1,14 @@
+Hi Jane,
+
+I hope this email finds you well. Your passion for cybersecurity is inspiring and I truly believe that you'd greatly benefit from our Web Application Penetration Testing course at XYZ-Edu. This course aligns perfectly with your interest in Ethical Hacking and Vulnerability Assessment, as it provides deep insights into securing web systems and mastering the art of ethical hacking.
+
+Considering your participation in Cybersecurity Capture The Flag (CTF) competitions, this course will bolster your practical skills and help you tackle complex cybersecurity scenarios more effectively. The lessons are based on real-life scenarios making you job-ready for real-world applications.
+
+We're currently offering a 20% discount for the first 100 students, and I think you'd be a perfect fit. For more details, please visit https://academy.xyz-edu.com/p/webapp-pentest.
+
+To ensure we're respecting your inbox, you can unsubscribe from our mailing list anytime by clicking here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you, and looking forward to fostering your cybersecurity journey.
+
+Kind Regards,
+Greg

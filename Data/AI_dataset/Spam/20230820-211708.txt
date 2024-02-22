@@ -1,0 +1,15 @@
+Hi John,
+
+I hope this finds you well. I'm Greg, a sales rep at XYZ-Edu. Your profile stood out to me as a passionate and dedicated cyber security student constantly updating your knowledge and skills in this domain.
+
+To further strengthen your prowess in ethical hacking, I'd like to introduce you to our Practical Ethical Hacking course. This comprehensive program focuses on key aspects such as network penetration testing, exploiting vulnerabilities, and post exploitation, among others. Given your interest in cybersecurity research and trends, this course offers valuable insights and hands-on experience that aligns with your passion. The course link is: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course 
+
+Moreover, we are currently offering a 20% discount to the first 100 students who enrol in the course. I believe this is a perfect opportunity for you to enhance your cybersecurity skills while also saving on the investment.
+
+If you wish to unsubscribe from our newsletter, you can do so at https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for considering this opportunity, and I look forward to potentially having you on board for this enriching learning experience.
+
+Kind Regards,
+
+Greg

@@ -1,0 +1,15 @@
+Hi Olivia,
+
+I hope this email finds you well. I noticed your aspiration to become a cybersecurity specialist and your commendable skills in Python. We have a course that could help you diversify your programming knowledge and enhance your cybersecurity expertise: Rust 101.
+
+Rust is gaining popularity due to its performance and memory safety, especially where concurrent systems come into play. Learning Rust can bolster your programming skills and make you more versatile in the cybersecurity field.
+
+We have a special offer: a 20% discount for the first 100 students who sign up for Rust 101. Here is the link to the course: https://academy.xyz-edu.com/p/rust-101
+
+Remember, the key to cybersecurity is continuous learning. We believe Rust 101 could be a valuable step forward in your journey.
+
+If you wish to not receive such emails in the future, please unsubscribe here https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you,
+Greg
+Sales Rep, XYZ-Edu

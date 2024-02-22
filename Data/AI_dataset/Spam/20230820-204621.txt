@@ -1,0 +1,16 @@
+Hi William,
+
+I hope this email finds you well. I am Greg, a sales rep at XYZ-Edu. Your profile on LinkedIn caught my attention, specifically your passion for cybersecurity and your commitment to secure digital assets.
+
+In light of your interests, I'd like to recommend our course "Practical Windows Forensics". This comprehensive guide will augment your cybersecurity analysis skills, offering practical experience in data collection, examination, extraction, and analysis on Windows systems.
+
+Your CompTIA Security+ certification and skills in Python and PowerShell will certainly be enhanced by the forensic processes this course provides. Moreover, you can apply these skills directly in the field of security incident response, firewall management, and vulnerability management.
+
+As a special offer, we're providing a 20% discount for the first 100 students. You can register for the course at this link: https://academy.xyz-edu.com/p/practical-windows-forensics
+
+If, at any point, you wish to stop receiving helpful resources like this, kindly unsubscribe at this link: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for your time, and I truly believe that this course will provide immense value to your burgeoning cybersecurity career.
+
+Best Regards,
+Greg

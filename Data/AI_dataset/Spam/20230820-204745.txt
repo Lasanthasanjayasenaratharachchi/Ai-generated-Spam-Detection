@@ -1,0 +1,14 @@
+Hi Daniel,
+
+Hope this email finds you well. I came across your profile and your passion for cybersecurity and research truly stands out.
+
+Considering your interest in combating emerging cyber threats, I thought you might value an opportunity to gain programming skills that align with your passion. Our course, Rust 101, is a comprehensive programming course that offers a unique emphasis on memory management and ownership - a critical skill in cybersecurity.
+
+Rust 101 could help fortify your existing skill set, enhancing your ability to develop innovative security solutions. The course is interactive and pedagogical, ensuring learners like you get the most out of it. You can check out the course here: https://academy.xyz-edu.com/p/rust-101.
+
+As a token of appreciation for your passion and dedication in the field of cybersecurity, we're offering a special 20% discount for the first 100 students.
+
+Feel free to explore, and if you have any questions, I'm here to help. If you'd like to stop receiving updates, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you,
+Greg

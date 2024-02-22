@@ -1,0 +1,14 @@
+Hi Michael,
+
+I hope this email finds you well. Having noticed your strong interest in cybersecurity consulting and your impressive skillset, I thought you might be interested in the External Pentest Playbook course offered by XYZ-Edu. This course could be a great value addition to your cybersecurity expertise.
+
+The course would provide you with an in-depth understanding of external penetration testing, helping you develop comprehensive security strategies and mitigate risks more effectively. It covers topics such as attacking Office 365 and Outlook Web App environments, bypassing Multi-Factor Authentication and escalating access, all of which are crucial in today's cybersecurity landscape.
+
+As a special offer, we're providing a 20% discount for the first 100 students. You can find more information and enrol for the course at this link: https://academy.xyz-edu.com/p/external-pentest-playbook
+
+If you ever wish to opt out of these emails, you can do so here: https://xyz-edu.com/newsletter/unsubscribe 
+
+Let me know if you have any questions or want to discuss this further. 
+
+Thank you,
+Greg

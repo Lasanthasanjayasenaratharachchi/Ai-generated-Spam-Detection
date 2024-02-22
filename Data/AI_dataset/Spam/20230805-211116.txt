@@ -1,0 +1,20 @@
+Hi Daniel,
+
+I hope this email finds you well. I came across your profile and was impressed by your passion for cybersecurity research and your drive to combat emerging cyber threats. I believe that our Practical Malware Analysis & Triage course can greatly contribute to your interests and expertise.
+
+Practical Malware Analysis & Triage is a comprehensive course that provides instruction on malware analysis. It includes engaging instructional videos and practical labs, allowing you to gain hands-on experience in dissecting and analyzing malware samples. The course offers two options for malware analysis lab builds: local virtual machines and a cloud-based network on AWS. Our instructor, Matt (aka HuskyHacks), will guide you through the entire process, ensuring that you develop the necessary skills in cybersecurity research and malware analysis.
+
+As a Cyber Security student and aspiring Cybersecurity Researcher, I believe that this course will provide you with valuable insights and practical knowledge that will enhance your capabilities in combating cyber threats. By enrolling in this course, you will have the opportunity to expand your expertise in threat intelligence, cryptography, and the use of security tools such as IDA Pro and Wireshark. Additionally, the course covers programming languages like Python and C++, which are essential in the field of cybersecurity.
+
+To show our appreciation for your dedication to cybersecurity, we are offering a 20% discount on the Practical Malware Analysis & Triage course for the first 100 students. You can find more information and enroll in the course using the following link: [https://academy.xyz-edu.com/p/practical-malware-analysis-triage].
+
+If you have any questions or need further assistance, please feel free to reach out to me. I am here to help you make the most of this opportunity.
+
+Thank you for your time, and I look forward to seeing you excel in your cybersecurity journey.
+
+Kind regards,
+
+Greg
+XYZ-Edu Sales Representative
+
+P.S. If you would like to unsubscribe from our emails, you can do so by clicking on the following link: [unsubscribe].

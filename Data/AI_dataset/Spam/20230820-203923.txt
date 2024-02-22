@@ -1,0 +1,14 @@
+Hi Michael,
+
+I hope this email finds you well. As a passionate cybersecurity student, I believe our XYZ-Edu Web Application Penetration Testing course could significantly bolster your cyber consulting aspirations.
+
+The course offers practical, hands-on training in assessing the security of web applications, testing for vulnerabilities and securing web systems. It covers a range of techniques, including enumeration, automation through Bash scripting, and exposure to the OWASP Top 10 vulnerabilities. You'll gain invaluable knowledge on post-exploitation strategies and wireless attacks, which will add great value to your already impressive skill set and align well with your credentials in CompTIA Security+.
+
+I am pleased to inform you that we're offering a 20% discount for the first 100 students who enrol in this course. Given your keen interest in developing comprehensive security strategies, this course would be a perfect fit to help you advance your career goals. You can find more details and enrol directly at https://academy.xyz-edu.com/p/webapp-pentest.
+
+If you decide that this course isn't right for you at this time, you're welcome to unsubscribe at any time using this link: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for considering this opportunity, Michael. We hope to see you soon in our Penetration Testing course.
+
+Best wishes,
+Greg

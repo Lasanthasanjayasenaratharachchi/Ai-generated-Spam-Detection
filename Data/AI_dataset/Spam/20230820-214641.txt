@@ -1,0 +1,16 @@
+Hi Jane,
+
+Hope you're well. I see from your profile that you're a dedicated Cyber Security student with a strong passion for network security and ethical hacking.
+
+I wanted to inform you about our new offering, The External Pentest Playbook. This course is an extension of the areas you're already skilled in, and it could be a significant asset in boosting your expertise. It provides strategic methods for successful external pentesting, including hands-on techniques such as vulnerability scanning and OSINT gathering, which aligns with your experience in network penetration testing. 
+
+I believe this could be an excellent opportunity for you not just to refine your skills, but also to understand various aspects of attacking Office 365 and OWA environments, and even bypassing MFA while escalating access. 
+
+To make this even more appealing, we're offering a 20% discount to the first 100 students. Check it out here: https://academy.xyz-edu.com/p/external-pentest-playbook
+
+Please feel free to unsubscribe should you not wish to receive such updates: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for considering this opportunity, and I hope to see you on the course soon!
+
+Best,
+Greg

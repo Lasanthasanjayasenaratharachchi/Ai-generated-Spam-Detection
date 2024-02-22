@@ -1,0 +1,15 @@
+Hi Sarah,
+
+I hope this message finds you well. I was impressed to read about your aspirations to become a Cyber Defense Specialist. Your solid IT foundation and passion for cyber defense align perfectly with an opportunity I’d like to share with you.
+
+At XYZ-Edu, we offer a comprehensive course titled Practical Ethical Hacking. It's designed to equip you with the knowledge and practical skills to effectively neutralise cyber threats and safeguard digital assets. It covers everything from Python programming, used extensively in ethical hacking, to mastering enumeration and exploitation, and post-exploitation strategies. You can find more details here: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course
+
+To demonstrate our commitment to supporting individuals like yourself, we're offering a 20% discount to the first 100 students. This could be an excellent opportunity to further enhance your skills and expertise in the cyber security field.
+
+If you wish to opt-out of such opportunities in the future, feel free to unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for your time, Sarah, and I look forward to possibly welcoming you into our Practical Ethical Hacking course.
+
+Best Regards,
+Greg
+Sales Rep, XYZ-Edu

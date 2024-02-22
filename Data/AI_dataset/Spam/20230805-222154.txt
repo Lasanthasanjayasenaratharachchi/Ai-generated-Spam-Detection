@@ -1,0 +1,16 @@
+Hi John,
+
+I hope this email finds you well. I came across your profile on LinkedIn and was impressed by your passion for safeguarding digital assets and your active involvement in cybersecurity best practices. As a sales representative at XYZ-Edu, I wanted to reach out to you to discuss an exciting opportunity that could help enhance your expertise in the field.
+
+We have recently launched a course called Practical Windows Forensics, which focuses on conducting a full digital forensic investigation of a Windows system. This course covers everything from setting up a lab environment to analyzing and extracting data for analysis. I believe that this course could be immensely valuable for you, given your interest in cybersecurity research and trends.
+
+To express our appreciation for your dedication to the field, we are currently offering a 20% discount on the course fees for the first 100 students who enroll. You can find more details about the course and avail the discount [here](https://academy.xyz-edu.com/p/practical-windows-forensics).
+
+I genuinely believe that Practical Windows Forensics can greatly contribute to your skill set and open up new opportunities in the cybersecurity industry. If you have any questions or would like further information, please feel free to reach out to me. 
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Best regards,
+Greg
+
+P.S. If you would prefer not to receive any further emails from us, you can unsubscribe [here](unsubscribe_link).

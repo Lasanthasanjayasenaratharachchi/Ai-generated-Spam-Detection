@@ -1,0 +1,14 @@
+Hi Michael,
+
+I hope this message finds you well. I've noticed your keen interest in cybersecurity consulting and I think our "Practical API Hacking" course can further enhance your expertise. This comprehensive course can help you understand common vulnerabilities in API-powered applications and how to exploit them using tools such as Burp Suite, which I see you're already familiar with.
+
+As you continue to sculpt your skills in cybersecurity, this course can serve as a valuable addition to your learning path. As it provides a balance between theoretical concepts and their practical application, it aligns well with your goal of developing comprehensive security strategies for organizations.
+
+As a special offer, we're providing the first 100 students a 20% discount. Here's the course URL for your convenience: https://academy.xyz-edu.com/p/hacking-apis
+
+If you ever wish to stop receiving our emails, you can click here to unsubscribe: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you, Michael, for considering this opportunity. I believe this course will add significant value to your career aspirations.
+
+Best,
+Greg

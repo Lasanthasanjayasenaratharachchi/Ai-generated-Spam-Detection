@@ -1,0 +1,14 @@
+Hi Sarah,
+
+I hope this message finds you well. My name is Greg, and I am a sales representative at XYZ-Edu. I came across your profile and noticed your interest in Cyber Security and programming. I think you might find our Rust 101 course beneficial in enhancing your skills and expertise.
+
+Rust 101 is a comprehensive course that provides foundational knowledge in Rust programming, a language increasingly relevant in cyber security. Its unique memory management capabilities can significantly aid in threat detection and neutralisation, aligning with your career aspirations in Cyber Defense. 
+
+We are currently offering a 20% discount for the first 100 students on this course. I firmly believe this course will add significant value to your professional development. Interested? You can find the course here: https://academy.xyz-edu.com/p/rust-101.
+
+If you decide later that you no longer wish to receive such emails, you can unsubscribe: https://xyz-edu.com/newsletter/unsubscribe.
+
+I'm here to assist if you have any questions or require further information.
+
+Thank you,
+Greg

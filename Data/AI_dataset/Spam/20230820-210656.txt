@@ -1,0 +1,14 @@
+Hi Emily,
+
+I hope this email finds you well. I noticed your passion for Cyber Security and your commitment to building strong security postures. As a sales rep at XYZ-Edu, I believe our "Practical API Hacking" course could significantly enhance your threat analysis and defense skills.
+
+The course provides a deep understanding of API hacking, teaching you how to exploit vulnerabilities using tools like Burp Suite and Postman. With a blend of theory and practice, it offers real-world challenges to ensure you not only understand theoretical aspects, but also develop effective hacking techniques. Find out more here: https://academy.xyz-edu.com/p/hacking-apis.
+
+To make this even more enticing, we're offering a 20% discount to the first 100 students. I believe this could be an invaluable opportunity for you to advance your expertise in Cyber Security.
+
+If you wish to unsubscribe from such opportunities, you can do so here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for considering this opportunity, Emily. Looking forward to hearing from you soon.
+
+Best,
+Greg

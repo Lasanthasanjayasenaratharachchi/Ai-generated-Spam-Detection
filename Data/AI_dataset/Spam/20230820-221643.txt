@@ -1,0 +1,14 @@
+Hi Daniel,
+
+I hope this email finds you well. I'm Greg, a sales rep at XYZ-Edu, and I couldn't help but notice your keen interest in cybersecurity research, as well as your impressive credentials in this field. 
+
+With your passion for combating emerging cyber threats and your experience in tools such as IDA Pro and Wireshark, I think our Practical Ethical Hacking course could be an excellent fit for you. This comprehensive course will help you delve deeper into areas such as network penetration testing, wireless penetration testing, and web application penetration testing. Plus, you'll get hands-on experience with Python and Bash scripts for task automation, among other things. 
+
+Here's the best part - for the first 100 students, we're offering a 20% discount. Check it out here: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course. I truly believe that this course will provide immense value to you, given your career aspirations and current skill set. 
+
+Lastly, if you'd prefer not to receive such recommendations in the future, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for considering this opportunity. 
+
+Best regards,
+Greg

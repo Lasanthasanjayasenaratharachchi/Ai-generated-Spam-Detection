@@ -1,0 +1,30 @@
+Welcome to the XYZ-Edu Web Application Penetration Testing course – your gateway to mastering the art of securing web systems. This course is designed for both beginners and enthusiasts, requiring only a positive attitude and a thirst for knowledge – no prior hacking experience needed.
+
+Dive into the practical realm of ethical hacking, where you'll learn invaluable tools and techniques applied in real-world scenarios. Our hands-on approach will cover crucial concepts and skills, ensuring your success as a proficient web security expert.
+
+Prerequisites:
+
+Basic IT knowledge
+For Mid-Course Capstone: Recommended minimum 12GB of RAM
+For Wireless Hacking: Wireless adapter supporting monitor mode (links provided)
+For Active Directory Lab Build: Recommended minimum 16GB of RAM; slower lab environments possible
+Course Highlights:
+
+A Day in the Life of an Ethical Hacker: Uncover the daily tasks, earning potential, and assessment types in the ethical hacking realm.
+Effective Notekeeping: Elevate your skills with vital note-taking tools crucial for success in the field.
+Networking Refresher: Explore computer networking essentials, from ports and protocols to OSI models and subnetting.
+Introductory Linux: Master the basics of Linux and delve into Bash scripting for task automation.
+Introductory Python: Acquire proficiency in Python 3, essential for crafting exploits and building a port scanner.
+Hacking Methodology: Unveil the five stages of hacking, laying the foundation for deeper exploration.
+Reconnaissance and Information Gathering: Learn open-source intelligence techniques, credential extraction, subdomain hunting, and Burp Suite usage.
+Scanning and Enumeration: Acquire essential enumeration skills, uncovering open ports, vulnerabilities, and essential tools.
+Exploitation Basics: Experience your first machine exploit, mastering Metasploit, manual exploitation, and more.
+Mid-Course Capstone: Tackle 10 progressively challenging vulnerable boxes, applying newfound skills and tools.
+Exploit Development: Delve into buffer overflows, writing custom Python 3 scripts for exploiting vulnerabilities.
+Active Directory: Master critical AD penetration testing techniques, exploiting weaknesses and utilizing essential tools.
+Post Exploitation: Navigate the aftermath of successful exploits, maintaining access, pivoting, and best practices.
+Web Application Penetration Testing: Revisit enumeration with new tools and automate using Bash scripting. Explore OWASP Top 10 vulnerabilities through hands-on examples.
+Wireless Attacks: Learn rapid WPA2 attacks to compromise wireless networks in minutes.
+Legal Documentation and Report Writing: Gain insights into legal aspects, documents encountered, and effective report writing.
+Career Advice: Wrap up with career tips and job-finding guidance from real-world experiences.
+Upon course completion, you'll possess profound expertise in external/internal network and web application penetration testing, along with wireless attacks. XYZ-Edu's practical approach ensures that every lesson draws from real engagements, preparing you for success in the field.

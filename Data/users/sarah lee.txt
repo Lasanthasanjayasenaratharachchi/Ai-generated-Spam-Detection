@@ -1,0 +1,24 @@
+Name: Sarah Lee
+Headline: Cyber Security Student | Aspiring Cyber Defense Specialist
+
+Summary:
+Motivated Cyber Security student pursuing a career in cyber defense. Adept at identifying and neutralizing cyber threats to safeguard digital assets and privacy.
+
+Education:
+
+Bachelor of Science in Cyber Security | GHI University | Graduation: August 2024
+Certifications:
+
+CompTIA Security+ | CompTIA | Certified in February 2023
+Skills:
+
+Cyber Defense
+Security Monitoring
+Intrusion Detection
+Threat Hunting
+Security Tools: Snort, Zeek
+Programming: Python, C
+Contact:
+
+Email: sarah.lee@email.com
+LinkedIn: linkedin.com/in/sarahlee

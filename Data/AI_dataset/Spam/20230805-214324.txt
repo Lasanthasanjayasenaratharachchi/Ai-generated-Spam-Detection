@@ -1,0 +1,21 @@
+Hi Michael,
+
+I hope this email finds you well. I came across your profile and noticed your strong interest in cybersecurity consulting. As a sales rep at XYZ-Edu, I wanted to reach out and let you know about our Rust 101 course.
+
+Rust 101 is a beginner-friendly course that teaches the Rust programming language. It covers core topics such as primitives, variables, functions, error handling, memory management, and ownership. This course is designed for complete beginners like yourself, as well as those familiar with coding who want to expand their skill set.
+
+By taking Rust 101, you will not only learn the fundamentals of Rust but also understand the difference between Rust and other programming languages. This knowledge will be invaluable in your pursuit of developing comprehensive security strategies for organizations to mitigate risks and protect valuable assets.
+
+As a special offer, we are currently offering a 20% discount on Rust 101 for the first 100 students. This is a limited-time offer, so I encourage you to take advantage of it soon. You can find more information and enroll in the course using the following link: [insert link here]
+
+If you have any questions or would like further information, please don't hesitate to reach out. We are here to support you in your journey towards becoming a cybersecurity consultant.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Kind regards,
+
+Greg
+Sales Representative
+XYZ-Edu
+
+[Unsubscribe link: Please click here to unsubscribe]

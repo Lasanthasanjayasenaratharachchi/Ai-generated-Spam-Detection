@@ -1,0 +1,18 @@
+Hi Michael,
+
+I hope this email finds you well. As an aspiring Cybersecurity Consultant, I thought you might be interested in our course, Practical Ethical Hacking. Given your interest in cybersecurity and your skills in Risk Assessment and Incident Handling, this course could be just what you need to elevate your expertise.
+
+Our course focuses on practical, real-world scenarios that align with your career aspirations. It covers key topics like advanced aspects of ethical hacking, web application penetration testing, and understanding OWASP Top 10 attacks and defenses. You'll learn strategies to navigate legal aspects of cybersecurity, such as engagement rules and non-disclosure agreements. 
+
+As someone well-versed in Python and JavaScript, you'll also appreciate the course's hands-on approach, especially when it comes to exploiting systems for security purposes and developing your own exploit codes. 
+
+As a special offer, we're giving a 20% discount to the first 100 students who enrol in the course. To access this offer, click on this link: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course.
+
+If you prefer not to receive these emails, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe. 
+
+Thank you for your time, Michael. I hope to see you in the course!
+
+Best regards,
+
+Greg
+XYZ-Edu

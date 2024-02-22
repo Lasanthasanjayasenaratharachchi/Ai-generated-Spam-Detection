@@ -1,0 +1,47 @@
+Step into the Practical Ethical Hacking course and immerse yourself in an empowering learning experience. With an enthusiastic attitude and a thirst for knowledge, you're primed to embark on this journey. This course is meticulously designed for both novices and those familiar with web application hacking, aspiring to broaden their horizons.
+
+"Practical Ethical Hacking" takes a unique approach, concentrating solely on tools and subjects that shape ethical hackers into success stories. This hands-on journey encompasses foundational aspects, ensuring an interactive and engaging learning process.
+
+Prerequisites:
+
+Basic IT knowledge.
+For the Mid-Course Capstone: It's recommended to have a minimum of 12GB of RAM.
+For Wireless Hacking: A wireless adapter supporting monitor mode is essential (links provided in the course).
+For Active Directory Lab Build: It's suggested to have a minimum of 16GB of RAM. While students with lower specifications can participate, they might experience slower lab environments.
+Course Highlights:
+
+A Day in the Life of an Ethical Hacker: Unravel the daily routines, earning potential, and assessment intricacies of ethical hackers. Explore questions surrounding their activities and earnings.
+
+Effective Notekeeping: The art of note-taking is the cornerstone of an ethical hacker's prowess. Discover pivotal tools for successful notekeeping that transcend the course and extend into your professional journey.
+
+Networking Refresher: Delve into computer networking concepts. From common ports and protocols to OSI models and subnetting, this section includes a practical walkthrough of network construction using Cisco CLI.
+
+Introductory Linux: Navigate the realm of Linux, a domain crucial for ethical hackers. Transition from basics to crafting Bash scripts, streamlining task automation throughout the course.
+
+Introductory Python: Gain proficiency in Python, a go-to language for ethical hackers. Master Python 3 intricacies, culminating in constructing a personal port scanner and developing exploits.
+
+Hacking Methodology: Embrace an overview of the five stages of hacking, a foundation that progressively deepens throughout the course.
+
+Reconnaissance and Information Gathering: Explore open-source intelligence techniques, extracting breached credentials, subdomain hunting, and Burp Suite utilization.
+
+Scanning and Enumeration: Master the art of enumeration, discovering open ports, potential vulnerabilities, and the array of tools essential for precise enumeration.
+
+Exploitation Basics: Launch your journey into exploitation. From Metasploit to manual coding, learn to exploit machines, execute brute force attacks, and more.
+
+Mid-Course Capstone: Put your knowledge to the test with a challenging section encompassing 10 ascending-difficulty vulnerable boxes. Explore attacker mindset and acquire fresh tools and strategies along the way.
+
+Exploit Development: Delve into buffer overflows, developing code to exploit vulnerabilities. Uncover the intricacies of registers and overflows through custom Python 3 scripts.
+
+Active Directory: Unveil the vital role of Active Directory in corporate landscapes. Build your own lab, master exploitation techniques, and wield tools like mimikatz, Bloodhound, and PowerView.
+
+Post Exploitation: Journey through the fourth and fifth stages of ethical hacking. Transfer files, pivot, and grasp best practices for sustained access and cleanup.
+
+Web Application Penetration Testing: Revisit enumeration with new tools and automation using Bash scripting. Dive into the OWASP Top 10, dissecting attacks and defenses, accompanied by hands-on walkthroughs of vulnerable web applications.
+
+Wireless Attacks: Harness the ability to perform wireless attacks against WPA2, compromising wireless networks swiftly.
+
+Legal Documentation and Report Writing: Venture into seldom-covered legal aspects, encountering documents like Statements of Work, Rules of Engagement, and Non-Disclosure Agreements. Navigate report writing with sample reports and client assessment examples.
+
+Career Advice: Conclude the course with career insights and guidance, equipping you to navigate the field with confidence.
+
+Upon course completion, you'll possess profound expertise in external/internal network penetration testing, wireless penetration testing, and web application penetration testing. Your journey is enriched with real-world experiences and engagements, crafting you into a skilled ethical hacker.

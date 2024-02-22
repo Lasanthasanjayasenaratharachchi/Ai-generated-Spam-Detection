@@ -1,0 +1,14 @@
+Hi Sophia,
+
+I noticed from your LinkedIn profile that you're an enthusiastic Cyber Security student with a focus on penetration testing. As you're already familiar with programming languages such as Python and SQL, I thought you might be interested to learn about Rust programming.
+
+Our new course, Rust 101, is a comprehensive guide to the Rust programming language. It facilitates a deep understanding of how Rust differs from other languages, enabling you to write complex programs and master memory management and ownership. These skills could greatly enhance your penetration testing abilities and overall cyber defence strategies.
+
+Since we're excited about the launch of Rust 101, we're offering a 20% discount to the first 100 students. You can access the course via this link: https://academy.xyz-edu.com/p/rust-101. 
+
+Should you decide later that this is not right for you, please feel free to unsubscribe at any time using this link: https://xyz-edu.com/newsletter/unsubscribe.
+
+Hope you find this information valuable and feel free to reach out if you have any questions.
+
+Thank you,
+Greg

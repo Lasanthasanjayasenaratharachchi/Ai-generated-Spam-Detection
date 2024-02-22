@@ -1,0 +1,18 @@
+Hi Olivia,
+
+I hope this email finds you well. I came across your profile and noticed that you're an ambitious cybersecurity student with a focus on becoming a specialist in the field. Keeping your interests in mind, I wanted to introduce you to our "Practical Windows Forensics" course at XYZ-Edu.
+
+This course aligns perfectly with your expertise, offering an in-depth understanding of Windows forensic analysis and covering crucial artifacts and concepts. It provides the proficiency for detailed investigations including data collection, examination, extraction, and analysis, equipping you with the important tools needed for data interpretation. 
+
+Given your proficiency with tools like Wireshark and Nessus, this course will complement your existing knowledge and skills, preparing you for efficient forensic analysis and enhancing your overall cybersecurity acumen.
+
+As a unique offer, we're providing a 20% discount to the first 100 students. This could be a valuable investment in your future career. You can check out the course here: https://academy.xyz-edu.com/p/practical-windows-forensics
+
+Feel free to reach out if you have any questions. Should you wish to unsubscribe from these communications, please follow this link: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you, Olivia, for considering this opportunity. 
+
+Best wishes,
+
+Greg
+Sales Rep, XYZ-Edu

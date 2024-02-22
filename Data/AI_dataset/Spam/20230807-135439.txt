@@ -1,0 +1,19 @@
+Hi Emily,
+
+I hope this email finds you well. I recently came across your profile and noticed your passion for cyber security, threat analysis, and defense. I wanted to reach out and let you know about an opportunity that could greatly benefit you in achieving your interests and expertise.
+
+At XYZ-Edu, we offer a course called Practical Ethical Hacking. This course is designed for both beginners and experienced individuals who are interested in learning about web application hacking. It provides practical tools and subjects that shape ethical hackers, giving you a hands-on learning experience.
+
+Practical Ethical Hacking covers a wide range of topics, including effective notekeeping, networking concepts, Linux skills, and Python. It focuses on providing the tools and knowledge necessary for ethical hackers to identify vulnerabilities and develop exploits. It also covers post-exploitation techniques, web application penetration testing, wireless attacks, and legal documentation and report writing.
+
+I believe that Practical Ethical Hacking aligns perfectly with your skills and interests. It can further enhance your knowledge and equip you with the skills needed to contribute to the cybersecurity community. As a special offer, we are currently offering a 20% discount on this course for the first 100 students.
+
+To learn more about the course and take advantage of the discount, you can visit our website at [insert link here]. If you have any questions or would like further information, please don't hesitate to reach out to me. 
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Kind regards,
+
+Greg
+
+P.S. If you wish to unsubscribe from our emails, you can do so by clicking [unsubscribe link here].

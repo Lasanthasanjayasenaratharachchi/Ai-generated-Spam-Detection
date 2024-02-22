@@ -1,0 +1,21 @@
+Hi Michael,
+
+I hope this email finds you well. I came across your profile and noticed your strong interest in cybersecurity consulting. As a sales rep at XYZ-Edu, I wanted to share an exciting opportunity with you.
+
+Have you considered Mobile Application Penetration Testing? Our course focuses on extracting sensitive data from mobile apps and prepares students for a successful career in Mobile Application Penetration Testing. Additionally, it covers Bug Bounty hunting for mobile applications.
+
+Given your background in cybersecurity and your interest in developing comprehensive security strategies, I believe this course will be invaluable for you. It will enhance your skills in cybersecurity consulting, risk assessment, security policies, and incident handling. Moreover, it will equip you with the knowledge of using security tools such as Burp Suite and Splunk, as well as programming languages like Python and JavaScript.
+
+To show our appreciation for your interest, we are offering a special 20% discount to the first 100 students who enroll in the Mobile Application Penetration Testing course. You can find more information about the course and enroll using the following link: [Insert Link: https://academy.xyz-edu.com/p/mobile-application-penetration-testing]
+
+If you have any questions or would like to discuss this opportunity further, please don't hesitate to reach out. 
+
+Thank you for your time and consideration.
+
+Kind regards,
+
+Greg
+Sales Representative
+XYZ-Edu
+
+[Unsubscribe Link: Please click here to unsubscribe]

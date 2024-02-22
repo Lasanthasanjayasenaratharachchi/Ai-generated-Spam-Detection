@@ -1,0 +1,14 @@
+Hi Michael,
+
+Hope you're doing well! I noticed your strong interest in cybersecurity consulting and enhancing security strategies for organisations. I believe our course, Practical Windows Forensic, could significantly benefit you.
+
+This course provides extensive knowledge on conducting digital forensic investigations on Windows systems, including data collection, examination, extraction, and thorough analysis. It's a great addition to the security tools you are already familiar with, like Burp Suite and Splunk, and will enhance your skills in incident handling and risk assessment.
+
+Furthermore, we're offering a 20% discount to the first 100 students who enrol. You can access the course through this link: https://academy.xyz-edu.com/p/practical-windows-forensics
+
+Feel free to reach out if you have any queries. To stop receiving updates, you can unsubscribe at https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you and looking forward to having you on board.
+
+Best,
+Greg

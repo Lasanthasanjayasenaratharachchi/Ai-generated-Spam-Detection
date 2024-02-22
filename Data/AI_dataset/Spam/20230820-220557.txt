@@ -1,0 +1,16 @@
+Hi Olivia,
+
+I hope you're having a wonderful day so far. I'm Greg from XYZ-Edu, and I was inspired by your LinkedIn profile stating your ambition to become a cybersecurity specialist.
+
+With your evident passion for cybersecurity and your practical skills in related tools and Python programming, I thought you might be interested in our course: Practical Malware Analysis & Triage (PMAT).
+
+PMAT offers advanced malware analysis techniques through instructional videos and practical labs. It's an excellent way to gain a deeper understanding of malware analysis, learn new analysis techniques, and improve your expertise. Our instructor, Matt, guides learners through the complex world of malware analysis, offering a hands-on, in-depth exploration of the process.
+
+I'm thrilled to offer you a 20% discount on this course as part of our initiative for the first 100 learners. You can access the course through this link: https://academy.xyz-edu.com/p/practical-malware-analysis-triage 
+
+Don't worry if you change your mind, you can always unsubscribe from our emails here: https://xyz-edu.com/newsletter/unsubscribe. Thank you for considering this opportunity. We believe the PMAT course will be a valuable addition to your cybersecurity learning journey.
+
+Best regards,
+
+Greg,
+Sales Rep, XYZ-Edu

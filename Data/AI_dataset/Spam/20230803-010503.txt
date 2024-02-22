@@ -1,0 +1,12 @@
+
+Hi Alex,
+
+My name is Greg and I am writing to introduce you to the Mobile Application Penetration Testing course available at XYZ-Edu. As a dedicated Cyber Security student, I am confident that this course will help you hone your ethical hacking skills and explore the vulnerabilities in mobile applications.
+
+This comprehensive course is designed to help you stay ahead of the ever-evolving cybersecurity landscape. It covers topics such as setting up a lab environment for iOS and Android apps, manual analysis for sensitive information, automated analysis with tools such as MobSF, breaking SSL Pinning, and understanding the OWASP Top Ten for Mobile. It also equips you with the skills to jailbreak an iOS device.
+
+To make this course even more attractive, XYZ-Edu is offering a 20% discount for the first 100 students who enroll. So don't miss out on this opportunity to grow your skillset and benefit from this course.
+
+If you'd like to get more information about this, please visit our website at https://academy.xyz-edu.com/p/mobile-application-penetration-testing.
+
+If you'd like to unsubscribe from our emails, please reply to this email with "

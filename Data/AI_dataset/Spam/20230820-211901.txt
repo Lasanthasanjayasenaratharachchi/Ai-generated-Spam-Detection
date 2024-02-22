@@ -1,0 +1,19 @@
+Hi William,
+
+Hope this message finds you in good spirits. I recently came across your profile and noticed your dedication and passion for cybersecurity. Being a Cyber Security student and an aspiring Cybersecurity Analyst, you seem to have a solid foundation in Python and PowerShell programming.
+
+However, have you considered integrating Rust into your skill set? Rust is gaining ground in systems programming and web assembly for its unparalleled memory safety without sacrificing performance.
+
+Our course, Rust 101, offers comprehensive, hands-on guidance that can boost your existing knowledge and make you stand out as a cybersecurity professional. It's designed in a way that you can further enhance your capabilities in managing memory safely, a skill particularly crucial in cybersecurity.
+
+As a token of appreciation for your commitment to continuous learning, we would like to offer you an exclusive 20% discount on this course. This offer is limited to the first 100 students, so don't miss out! You can access the course here: https://academy.xyz-edu.com/p/rust-101 
+
+By the way, we regularly share insights, tips, and exclusive offers in our emails. If, however, you'd rather not receive them, you can unsubscribe at any time using this link: https://xyz-edu.com/newsletter/unsubscribe
+
+Looking forward to helping you accelerate your cybersecurity career, William.
+
+Thank you,
+
+Greg,
+Sales Rep,
+XYZ-Edu

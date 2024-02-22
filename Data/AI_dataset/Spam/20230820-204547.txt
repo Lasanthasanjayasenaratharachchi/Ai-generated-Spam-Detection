@@ -1,0 +1,16 @@
+Hi Sophia,
+
+I hope this email finds you well. My name is Greg, a sales rep at XYZ-Edu. I noticed your interest and expertise in the cybersecurity field, particularly in penetration testing.
+
+I wanted to introduce you to our Practical Ethical Hacking course, which I believe aligns perfectly with your aspirations. The course provides comprehensive knowledge on various aspects of ethical hacking, including Python proficiency, open-source intelligence techniques, and web application penetration testing. It would certainly solidify your understanding and enhance your skills in identifying security weaknesses and enhancing cyber defenses.
+
+Even better, we're currently offering a 20% discount for the first 100 students! You can find more information about the course and enrol at https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course.
+
+Remember, this course isn't about selling you a solution; it's about providing you with the value and knowledge that will make a difference in your cybersecurity career.
+
+If you're no longer interested in receiving these offers, simply click here to unsubscribe: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for your time, Sophia. I hope to see you in the course soon.
+
+Best regards,
+Greg from XYZ-Edu

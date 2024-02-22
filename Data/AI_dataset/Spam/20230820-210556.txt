@@ -1,0 +1,14 @@
+Hi William,
+
+I've been admiring your passion for cybersecurity, noticing your adeptness in areas like firewall management and vulnerability management. As a Cyber Security student at PQR University, I believe our Web Application Penetration Testing course at XYZ-Edu can help you take your skills to the next level. 
+
+This course is designed to teach you to identify and exploit vulnerabilities in web applications, using tools and automated Bash scripting. You'll be able to prevent security breaches more effectively by understanding potential threats and learning to address the OWASP Top 10 vulnerabilities.
+
+The good news is, we're currently offering a 20% discount to the first 100 students who enrol through this link: https://academy.xyz-edu.com/p/webapp-pentest. Your strong security foundations could make this your next step towards becoming an accomplished cybersecurity analyst.
+
+In case you wish to stop receiving such updates, you can always unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe. 
+
+Looking forward to helping you secure digital assets more effectively!
+
+Thank you,
+Greg, XYZ-Edu

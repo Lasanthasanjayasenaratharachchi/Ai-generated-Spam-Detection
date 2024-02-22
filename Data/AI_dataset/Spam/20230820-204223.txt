@@ -1,0 +1,16 @@
+Hi Sophia,
+
+I hope this email finds you well. As an aspiring penetration tester, your focus on effective cyber security protocols is admirable. I noticed your keen interest in this field and thought our course "The External Pentest Playbook" might be the perfect match for your aspirations.
+
+This course is designed to enhance your skills in external penetration testing tactics and techniques, refining your approach, and assisting you to excel in job interviews within this field. It covers several crucial areas, such as Open Source Intelligence (OSINT), and gives detailed guidance on targeting login portals and bypassing Multi-Factor Authentication.
+
+As an extra incentive, we are offering a 20% discount for the first 100 students to enrol. So, I encourage you to take advantage of this opportunity and enrich your knowledge in cyber security. You can access the course via this link: https://academy.xyz-edu.com/p/external-pentest-playbook.
+
+In case you wish to stop receiving our announcements, please feel free to unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for considering this opportunity, Sophia. We believe this course can add significant value to your future career in penetration testing.
+
+Best,
+
+Greg
+XYZ-Edu Sales Rep

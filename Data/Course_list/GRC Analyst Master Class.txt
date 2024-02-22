@@ -1,0 +1,23 @@
+Welcome to the XYZ-Edu Governance, Risk, and Compliance (GRC) Analyst Master Class. Tailored for newcomers and those without prior background knowledge, this class is meticulously crafted to equip you with a comprehensive understanding and practical proficiencies essential for becoming a proficient GRC Analyst.
+
+In the realm of cybersecurity workforce development, emphasis often falls on red team and blue team skills, leaving GRC largely underserved in terms of training.
+
+At XYZ-Edu, we bridge this gap by immersing you in hands-on applications of risk assessment, audit procedures, policy formulation, and security awareness tactics that are integral for the contemporary GRC analyst.
+
+Throughout this course, we'll delve into the following key areas:
+
+IT Primer: While prior IT experience isn't mandatory, acquiring fundamental IT concepts is imperative for effectively applying the acquired GRC skills.
+
+GRC within Information Security: Gain insights into how the role of a GRC analyst fits within the broader context of information security and its strategic alignment with business objectives.
+
+Compliance and Audit: Embark on your journey by understanding the significance of compliance in business and the audit processes. Dive into a practical audit lab experience.
+
+Effective Security Awareness: Often underestimated, you'll harness the ability to craft captivating security awareness content that mitigates cyber risk. Engage in a lab exercise that guides you through creating a security awareness briefing using an array of tools.
+
+Cybersecurity Risk: Delve deep into this quintessential GRC function, acquiring skills to assess and calculate cybersecurity risks. Through hands-on labs, you'll gain the expertise to meticulously analyze cybersecurity risk across diverse business landscapes.
+
+Instructional Governance: Governance forms the bedrock for adoption and alignment with business objectives. We'll navigate policies, procedures, and standards, culminating in real-time policy creation.
+
+Securing a GRC Analyst Role: Knowledge alone is insufficient; we provide comprehensive insights into how to secure a rewarding GRC Analyst position in the professional sphere.
+
+It's crucial to acknowledge that our lecture videos encompass both traditional "lecture" style recordings and dynamic "in-the-moment" livestreams. Both formats are intentionally designed to deliver a valuable and exceptional learning journey, ultimately preparing you to excel as a GRC Analyst in the dynamic field of cybersecurity.

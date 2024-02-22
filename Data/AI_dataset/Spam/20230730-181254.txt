@@ -1,0 +1,15 @@
+
+Hi Alex,
+
+I hope this email finds you well. I'm Greg, a sales rep at TCM Security, and I wanted to reach out to you about our TCM Security Practical Ethical Hacking course.
+
+As a dedicated Cyber Security student, I'm sure you're familiar with the importance of honing your ethical hacking skills. Our course is designed to help you do just that. It covers core topics such as primitives, variables, functions, error handling, memory management, ownership, and more. With our course, you'll be able to understand the difference between Rust and other programming languages, write basic and complex programs in Rust, understand memory management and ownership in Rust, and improve your overall development skills.
+
+To make it even better, we're offering a 20% discount on the course for the first 100 students. So don't miss out on this great opportunity to take your skills to the next level.
+
+You can find more information about the course here: https://academy.xyz-edu.com/p/practical-malware-analysis-triage
+
+I hope you take advantage of this offer and I look forward to hearing from you soon.
+
+Best,
+Greg

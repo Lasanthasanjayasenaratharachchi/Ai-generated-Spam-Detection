@@ -1,0 +1,15 @@
+Hi Emily,
+
+I hope this message finds you well. I noticed you're a passionate Cyber Security student with a focus on threat analysis and defense. In line with your interests, I wanted to introduce you to our course, Practical Windows Forensics.
+
+The course provides a comprehensive understanding of Windows forensic analysis, which can enhance your skills in threat analysis and cyber defense techniques. It mirrors real-world scenarios, preparing you for actual digital forensic investigations, and uses industry-recognized tools that complement your familiarity with Wireshark and Snort.
+
+As a valued member of our community, we are offering a special 20% discount to the first 100 students who enrol. To claim your discount and start your journey towards mastering Practical Windows Forensics, visit https://academy.xyz-edu.com/p/practical-windows-forensics.
+
+We believe this course will truly add value to your cybersecurity career journey and allow you to contribute more to the cybersecurity community. Should you no longer wish to receive such offers, feel free to unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you and looking forward to welcoming you on board.
+
+Best Regards,
+Greg
+Sales Rep, XYZ-Edu

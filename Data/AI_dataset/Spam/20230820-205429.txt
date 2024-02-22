@@ -1,0 +1,18 @@
+Hi Emily,
+
+I hope this message finds you well. As a passionate Cyber Security student with a focus on threat analysis and defence, I believe you could greatly benefit from our Rust 101 course at XYZ-Edu.
+
+Rust is renowned for its emphasis on safety, speed, and concurrent programming, making it a highly sought-after skill in Cyber Security. Mastering Rust's unique memory management and ownership concepts could elevate your expertise, especially given your proficiency in Python.
+
+We're currently offering an exclusive 20% discount for the first 100 students who enrol. You can learn more and register at https://academy.xyz-edu.com/p/rust-101. 
+
+Our resources could provide the value you're seeking, not by focusing on price, but by enhancing your existing skills and arming you with new, marketable ones. Who knows, it might just be the key to your next big opportunity in the cybersecurity community!
+
+If you ever wish to unsubscribe from our mails, you can do so at https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you, Emily, and looking forward to helping you on your learning journey!
+
+Best Regards,
+
+Greg
+Sales Rep, XYZ-Edu

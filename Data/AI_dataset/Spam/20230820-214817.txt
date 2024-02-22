@@ -1,0 +1,13 @@
+Hi Alex,
+
+I hope this email finds you well. I've noticed your commitment to enhancing your cybersecurity skills and staying ahead of the latest trends, which is commendable. As a Cyber Security student and an aspiring ethical hacker, mastering new languages is pivotal to your success. 
+
+I wanted to introduce you to our Rust 101 course at XYZ-Edu: https://academy.xyz-edu.com/p/rust-101. Rust is emerging as a game-changer in system programming, particularly in areas where cybersecurity is crucial. With its emphasis on memory safety and performance, Rust would be an excellent addition to your toolset.
+
+The first 100 students to enrol will receive a 20% discount. We believe this course would provide significant value to your learning journey, equipping you with the skills to devise more secure, efficient solutions in your ethical hacking endeavours.
+
+Feel free to reach out if you have any questions. If you're no longer interested in receiving updates from us, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you,
+
+Greg

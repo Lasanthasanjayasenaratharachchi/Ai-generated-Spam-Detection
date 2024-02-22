@@ -1,0 +1,15 @@
+Step into the world of Rust programming with Rust 101, a comprehensive course tailored to provide you with the foundational knowledge of the Rust programming language. Whether you're a complete beginner or already acquainted with coding and looking to broaden your skill set, this course is crafted to cater to your learning journey.
+
+Embracing a pedagogical approach, Rust 101 guides you through core Rust concepts. From understanding primitives and variables to delving into functions, error handling, memory management, ownership, and beyond, this course ensures a comprehensive grasp of essential Rust topics.
+
+Prerequisites:
+
+Patience and an eagerness to learn.
+A computing environment (Windows, Linux, Mac) is recommended, preferably with 8GB of RAM and 20GB of disk space, although not obligatory.
+Learning Objectives:
+
+Gain a profound insight into the distinctions that set Rust apart from other programming languages.
+Acquire proficiency in crafting both basic and intricate programs using Rust.
+Master memory management and ownership, fundamental aspects that define Rust's uniqueness.
+Elevate your overall development prowess, enhancing your capabilities as a programmer.
+Embrace the Rust programming language through Rust 101, where comprehensive learning transforms you into a confident Rust programmer, ready to tackle coding challenges and embark on diverse projects with finesse.

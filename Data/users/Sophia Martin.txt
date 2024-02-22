@@ -1,0 +1,24 @@
+
+Name: Sophia Martin
+Headline: Cyber Security Student | Aspiring Penetration Tester
+
+Summary:
+Enthusiastic Cyber Security student with a focus on penetration testing. Eager to explore and identify security weaknesses to enhance cyber defenses.
+
+Education:
+
+Bachelor of Science in Cyber Security | STU University | Graduation: March 2024
+Certifications:
+
+CompTIA Security+ | CompTIA | Certified in November 2023
+Skills:
+
+Penetration Testing
+Web Application Security
+Network Security
+Security Tools: Burp Suite, Kali Linux
+Programming: Python, SQL
+Contact:
+
+Email: sophia.martin@email.com
+LinkedIn: linkedin.com/in/sophiamartin

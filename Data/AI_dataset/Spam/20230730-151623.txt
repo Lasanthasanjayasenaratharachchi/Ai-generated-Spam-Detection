@@ -1,0 +1,15 @@
+
+Hi John,
+
+I hope this email finds you well. My name is Greg and I'm a sales rep at XYZ-Edu. I'm writing to you because I believe that our Practical API Hacking course can help you to achieve your cybersecurity goals.
+
+As a cybersecurity student, you are likely already familiar with the importance of staying up-to-date on the latest trends and best practices. Our course is designed to help you do just that. It covers industry-standard tools such as Burp Suite and Postman, and provides demonstration labs and challenges to help you gain hands-on experience.
+
+To make it even more attractive, we are offering a 20% discount on the course for the first 100 students. You can find out more about the course and sign up here: https://academy.xyz-edu.com/p/hacking-apis
+
+I hope you find this offer useful and I look forward to hearing from you soon.
+
+Best regards,
+Greg
+
+P.S. You can unsubscribe from our emails at any time by clicking the link at the bottom of this email.

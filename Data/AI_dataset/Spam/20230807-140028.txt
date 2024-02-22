@@ -1,0 +1,23 @@
+Hi Olivia,
+
+I hope this email finds you well. I came across your profile and noticed your focus on becoming a cybersecurity specialist. I wanted to reach out and share an exciting opportunity with you.
+
+At XYZ-Edu, we offer a course called Mobile Application Penetration Testing that I believe could greatly benefit you in achieving your interests and expertise. This course specifically focuses on extracting sensitive data from Android and iOS mobile apps. It covers common methodologies, provides tools and practices for Bug Bounty hunting in mobile applications, and enhances your understanding of web application or API-based penetration testing.
+
+With your background in cybersecurity fundamentals, data protection, and programming skills in Python, I believe this course would be a perfect fit for you. It will equip you with the necessary skills to assess the security of mobile applications and uncover hidden vulnerabilities. By improving the security of iOS and Android apps, you will be able to further enhance data integrity and implement effective security measures.
+
+To show our appreciation for your interest, we are offering an exclusive 20% discount on the Mobile Application Penetration Testing course for the first 100 students. You can find more details and enroll in the course through this link: [insert course link here]
+
+If you have any questions or would like further information, please feel free to reach out to me. I am more than happy to assist you. 
+
+Thank you for considering XYZ-Edu for your professional development in the field of cybersecurity. I look forward to hearing from you soon.
+
+Kind regards,
+
+Greg
+Sales Representative
+XYZ-Edu
+
+Unsubscribe: [insert unsubscribe link here]
+
+Thank you.

@@ -1,0 +1,14 @@
+Hi Alex,
+
+I hope this email finds you well. I'm Greg, a sales rep with XYZ-Edu, and I've noticed your commitment to staying ahead of the cybersecurity landscape and your interest in ethical hacking.
+
+Building on your existing skills, I think our Practical Windows Forensics course would be of great interest to you. It offers in-depth knowledge on forensic tools and artifacts, which could help you explore vulnerabilities and devise secure solutions more effectively. The course simulates real-world attack patterns, enhancing your incident response skills too. You can find more details here: https://academy.xyz-edu.com/p/practical-windows-forensics 
+
+As an added perk, we're offering a 20% discount for the first 100 students. Considering your dedication and curiosity, I think this would be a brilliant opportunity for you to expand your capabilities and keep thriving in your cybersecurity journey.
+
+Please feel free to reach out if you have any questions or need further information. If you're not interested in receiving such educational opportunities, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe 
+
+Thank you for your time, Alex. Good luck with your studies and future ethical hacking endeavours!
+
+Best Regards,
+Greg

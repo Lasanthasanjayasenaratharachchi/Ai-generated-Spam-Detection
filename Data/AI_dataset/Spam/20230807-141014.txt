@@ -1,0 +1,18 @@
+Hi Michael,
+
+I hope this email finds you well. I came across your profile and noticed your strong interest in cybersecurity consulting. I wanted to reach out and introduce you to a course that I believe would greatly benefit you in achieving your goals and expanding your expertise: The External Pentest Playbook.
+
+The External Pentest Playbook is a comprehensive course designed to enhance your skills in external penetration testing. It covers a wide range of tactics and techniques, making it suitable for individuals with beginner pentest knowledge and basic security knowledge. By taking this course, you will gain valuable insights and skills that can be applied to refine your pentest approaches, improve client relations, and succeed in pentest job interviews.
+
+I believe that The External Pentest Playbook would be perfect for you based on your background and interests. It covers fundamental objectives, important documents and procedures, scope verification, client communication, attack strategies, vulnerability scanning, and common OSINT techniques related to external penetration testing. Additionally, it also includes topics such as attacking specific environments, bypassing Multi-Factor Authentication, and improving report writing skills.
+
+To learn more about The External Pentest Playbook, you can visit [insert course URL: https://academy.xyz-edu.com/p/external-pentest-playbook]. And as a special offer, we are currently offering a 20% discount on this course for the first 100 students.
+
+I believe that this course will greatly enhance your skills and knowledge in external pentesting, helping you develop comprehensive security strategies for organizations to mitigate risks and protect valuable assets. If you have any questions or would like more information, please feel free to reach out to me.
+
+Thank you for your time, Michael. I look forward to hearing from you soon.
+
+Kind Regards,
+Greg
+
+Unsubscribe: [insert unsubscribe URL: https://xyz-edu.com/newsletter/unsubscribe]

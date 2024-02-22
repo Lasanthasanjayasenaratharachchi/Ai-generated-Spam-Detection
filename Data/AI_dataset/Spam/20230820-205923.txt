@@ -1,0 +1,14 @@
+Hi Alex,
+
+I hope you're well. I'm Greg, a representative from XYZ-Edu. As an aspiring ethical hacker, I understand your eagerness to stay ahead of the cybersecurity landscape, which is why I believe our Practical Ethical Hacking course could be a fantastic opportunity for you.
+
+The course covers everything from Python programming to penetration testing, tools usage like Nmap, Wireshark, Metasploit, and mastering various hacking techniques. It's really a hands-on experience designed to enhance your existing skills and provide profound expertise in various areas of penetration testing. Plus, it aligns perfectly with your goal to explore vulnerabilities and devise secure solutions.
+
+We're currently offering a special 20% discount to the first 100 students who enrol. You can find more details and enrol here: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course. 
+
+If you ever decide that you'd rather not receive this kind of information, feel free to unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Looking forward to helping you on your journey.
+
+Thank you,
+Greg

@@ -1,0 +1,15 @@
+Hi Sophia,
+
+I hope this email finds you well. I came across your profile and noticed your passion for Cyber Security and your interest in Penetration Testing. In line with your specialties, I wanted to share with you about our course - Rust 101, which could add a significant value to your portfolio.
+
+Rust 101 is a comprehensive course designed to enhance your coding capabilities, especially focusing on memory management and ownership - critical aspects in Cyber Security. This course is devised in a way that it complements your current programming skills with Python and SQL, providing a broader understanding of coding structures. 
+
+Excitingly, we are currently offering a 20% discount to the first 100 students for this course. You could be one of them! You can access the course and its details here: https://academy.xyz-edu.com/p/rust-101
+
+Our ultimate goal is to help you explore new avenues in your Cyber Security journey and support you in becoming a well-rounded Penetration Tester. 
+
+Thank you for considering this opportunity. If you wish to unsubscribe from these updates, you can do so by clicking here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Warm Regards,
+Greg
+Sales Rep, XYZ-Edu

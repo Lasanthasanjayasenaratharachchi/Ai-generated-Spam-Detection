@@ -1,0 +1,21 @@
+Summary:
+Passionate Cyber Security student with a focus on threat analysis and defense. Committed to building strong security postures and fostering a safe digital environment. Seeking opportunities to contribute to the cybersecurity community.
+
+Education:
+
+Bachelor of Science in Cyber Security | ABC University | Graduation: December 2023
+Certifications:
+
+CompTIA Security+ | CompTIA | Certified in April 2023
+Skills:
+
+Threat Analysis
+Cyber Defense Techniques
+Security Operations
+Vulnerability Assessment
+Security Tools: Wireshark, Snort
+Programming: Python
+Contact:
+
+Email: emily.chen@email.com
+LinkedIn: linkedin.com/in/emilychen

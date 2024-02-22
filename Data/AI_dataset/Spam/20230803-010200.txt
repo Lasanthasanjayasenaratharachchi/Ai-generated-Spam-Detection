@@ -1,0 +1,14 @@
+
+Hi Alex,
+
+I hope this email finds you well. I'm Greg, a sales rep at XYZ-Edu, and I wanted to reach out to you about our Practical Ethical Hacking course.
+
+As a Cyber Security student and aspiring Ethical Hacker, I'm sure you're aware of the importance of staying ahead of the cybersecurity landscape. Our Practical Ethical Hacking course is designed to teach students the practical side of ethical hacking, and covers topics such as basic IT knowledge, wireless hacking, and active directory lab build.
+
+The course also introduces the basics of Linux and Python 3, and provides an overview of the five stages of hacking. It covers reconnaissance and information gathering, scanning and enumeration, exploitation, post exploitation activities, and web application penetration testing.
+
+We also cover wireless attacks against WPA2, legal documentation and report writing, and provide career advice and tips for finding a job in the field.
+
+As a special offer, we're offering a 20% discount on the course for the first 100 students. To take advantage of this offer, simply click on the link below:
+
+https://academy.xyz-edu.com/p/practical-ethical-hacking

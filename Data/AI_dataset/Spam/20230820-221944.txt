@@ -1,0 +1,14 @@
+Hi Olivia,
+
+I hope this email finds you well. My name is Greg and I'm a sales rep at XYZ-Edu. Given your ambition in becoming a cybersecurity specialist and your proficiency in Python, our Rust 101 course could be a perfect addition to your programming toolkit.
+
+Rust is renowned for its memory safety features, something that can be incredibly beneficial in the cybersecurity field. It can add another layer of security to your skills, ensuring data integrity which I noticed is a key focus for you.
+
+We're currently offering a 20% discount for the first 100 students who enroll – I believe you could be one of them. Here is the course URL: https://academy.xyz-edu.com/p/rust-101.
+
+Remember, it's not about the price, it's about the value that Rust 101 can add to your expertise. If you're no longer interested in these opportunities, please follow this link to unsubscribe: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for your time and I hope to see you onboard soon.
+
+Kind regards,
+Greg, XYZ-Edu

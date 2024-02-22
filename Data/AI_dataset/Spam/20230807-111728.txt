@@ -1,0 +1,24 @@
+Subject: Exclusive 20% Discount on Web Application Penetration Testing Course for the First 100 Students
+
+Hi Jane,
+
+I hope this email finds you well. I came across your profile and noticed your strong desire to contribute to the protection of digital systems and data. I wanted to share with you an exciting opportunity that aligns perfectly with your interests and expertise.
+
+At XYZ-Edu, we offer a comprehensive Web Application Penetration Testing course designed specifically for beginners and enthusiasts like yourself. This course provides hands-on training in ethical hacking, teaching the essential tools and techniques used in real-world scenarios. The best part is that no prior hacking experience is required.
+
+Web Application Penetration Testing is a crucial process in evaluating the security of web applications by identifying vulnerabilities and weaknesses that can be exploited by attackers. Our course covers all the necessary skills, including ethical hacking, networking, Linux, and Python proficiency. We follow a structured hacking methodology consisting of five stages to ensure you gain a deep understanding of the subject.
+
+By enrolling in our Web Application Penetration Testing course, you will learn open-source intelligence techniques, use tools like Burp Suite, and acquire essential enumeration skills. You will also master the art of exploiting vulnerabilities, including buffer overflows, and gain expertise in Active Directory penetration testing. Throughout the course, you will have the opportunity to apply your skills by tackling progressively challenging vulnerable boxes.
+
+As a valued recipient of this email, I would like to offer you an exclusive 20% discount on the Web Application Penetration Testing course. This discount is limited to the first 100 students who enroll. To claim your discount, simply click on the following link: [insert https://academy.xyz-edu.com/p/webapp-pentest].
+
+I genuinely believe that this course will provide immense value to your cybersecurity journey, enabling you to combat emerging threats effectively. If you have any questions or need further information, please don't hesitate to reach out to me. 
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Kind regards,
+
+Greg
+XYZ-Edu Sales Representative
+
+P.S. If you prefer not to receive any further emails from us, you can unsubscribe [insert unsubscribe link here].

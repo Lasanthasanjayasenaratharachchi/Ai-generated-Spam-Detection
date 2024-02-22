@@ -1,0 +1,18 @@
+Hi Emily,
+
+I hope this email finds you well. I recently came across your LinkedIn profile and noticed your passion for threat analysis and defense in the cybersecurity field. As a sales rep at XYZ-Edu, I wanted to reach out and inform you about our Rust 101 course, which I believe could greatly benefit you in achieving your interests and expertise.
+
+Rust 101 is specifically designed for beginners and individuals with coding experience who are interested in learning the Rust programming language. The course covers essential topics such as primitives, variables, functions, error handling, memory management, and ownership. It aims to help students understand the unique features of Rust compared to other programming languages, enabling them to write both basic and complex programs. Additionally, the course will enhance your overall development skills.
+
+To support your pursuit of cybersecurity knowledge, we are currently offering a limited-time discount of 20% off the Rust 101 course for the first 100 students. This is a great opportunity for you to gain valuable skills in a language that is increasingly relevant in the cybersecurity industry.
+
+I encourage you to take advantage of this offer by enrolling in the course using the following link: [insert https://academy.xyz-edu.com/p/rust-101]. If you have any questions or need further information, please feel free to reach out to me directly.
+
+Thank you for your time, and I hope to see you in the Rust 101 course!
+
+Best regards,
+
+Greg
+XYZ-Edu
+
+P.S. If you would like to unsubscribe from future emails, you can do so by clicking here: [insert unsubscribe link]

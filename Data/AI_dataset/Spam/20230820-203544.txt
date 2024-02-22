@@ -1,0 +1,14 @@
+Hi Olivia,
+
+I came across your profile and noticed your dedication towards becoming a cybersecurity specialist. As a representative of XYZ-Edu, I wanted to introduce you to our "Practical API Hacking" course.
+
+This course aligns with your interests, particularly with your expertise in Python and usage of security tools like Wireshark and Nessus. It provides an in-depth study of API vulnerabilities, exploitation techniques and hands-on experience using tools like Burp Suite and Postman. Enhancing your knowledge of API security could be a great value-addition to your cybersecurity skills.
+
+As a student, we understand the constraints you may have and hence, I am excited to offer you a 20% discount on this course. This offer is limited to the first 100 students, so make sure to sign up soon! Find more details about the course here: https://academy.xyz-edu.com/p/hacking-apis 
+
+If you wish to not receive such emails in the future, please use this link to unsubscribe: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for considering this opportunity, Olivia. Looking forward to hearing from you soon!
+
+Best Regards,
+Greg

@@ -1,0 +1,15 @@
+Hi Daniel,
+
+I hope this email finds you well. I've come across your profile and noticed your passion for cyber security research and your keenness to discover innovative solutions to combat cyber threats. We at XYZ-Edu have a course, "Practical API Hacking", that aligns perfectly with your interests.
+
+The in-depth course not only broadens your understanding of API vulnerabilities but also offers hands-on experience in exploiting them, using tools like Burp Suite and Postman. It's an excellent opportunity to enhance your skills, from understanding to mastering API security.
+
+For the first 100 students, we are offering a 20% discount on this course. Here's the course URL: https://academy.xyz-edu.com/p/hacking-apis. I'm confident that this course would add significant value to your cyber security expertise.
+
+If you wish to no longer receive such emails, please unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Looking forward to hearing from you soon, Daniel.
+
+Thank you,
+Greg,
+Sales Rep, XYZ-Edu

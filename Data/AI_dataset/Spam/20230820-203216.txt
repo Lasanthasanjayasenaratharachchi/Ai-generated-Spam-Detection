@@ -1,0 +1,14 @@
+Hi Jane,
+
+I hope this email finds you well. I came across your profile and was impressed by your passion for cybersecurity and your interest in ethical hacking. As a sales rep at XYZ-Edu, I thought you might find our course, The External Pentest Playbook, extremely beneficial.
+
+This course could potentially deepen your expertise in external penetration testing tactics, a skill you've already shown interest in. It provides a comprehensive guide on various attack strategies, tips for vulnerability scanning, and techniques for attacking Office 365 and Outlook environments, among other key aspects.
+
+Moreover, as one of the first 100 students, you're eligible for a 20% discount, augmenting the value of this opportunity. You can access the course here: https://academy.xyz-edu.com/p/external-pentest-playbook 
+
+If you wish to opt-out of our communications, please follow this link: https://xyz-edu.com/newsletter/unsubscribe 
+
+Thank you for considering this opportunity, Jane. I believe the course will be a valuable addition to your cybersecurity knowledge and skills.
+
+Best regards,
+Greg

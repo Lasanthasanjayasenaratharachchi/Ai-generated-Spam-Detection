@@ -1,0 +1,21 @@
+Hi Alex,
+
+I hope this email finds you well. 
+
+I see from your profile that you're an aspiring Ethical Hacker with a keen interest in penetration testing. I wanted to introduce you to our Web Application Penetration Testing course at XYZ-Edu. It's designed to equip students like yourself with the tools and techniques to secure web systems effectively. 
+
+Web Application Penetration Testing is a crucial aspect of IT security. It empowers ethical hackers to identify potential vulnerabilities and devise secure solutions, perfectly aligning with your interests. Our course covers everything from the basics of exploitation to advanced techniques, using Python 3 scripts and understanding buffer overflows. We even delve into areas such as wireless hacking and the legal aspects of penetration testing.
+
+To make it even more appealing, we have an exclusive offer for the first 100 students — a 20% discount on the course. You can check out the course and enrol here: https://academy.xyz-edu.com/p/webapp-pentest
+
+Remember, staying ahead in the cybersecurity landscape requires consistent learning and updating. This course could be that next step for you.
+
+Should you decide in the future that you no longer wish to receive such emails, feel free to unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for your time, Alex. We hope to see you on the course!
+
+Best regards,
+
+Greg,
+Sales Representative,
+XYZ-Edu

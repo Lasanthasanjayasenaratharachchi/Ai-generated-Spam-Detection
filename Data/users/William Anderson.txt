@@ -1,0 +1,29 @@
+Name: William Anderson
+Headline: Cyber Security Student | Aspiring Cybersecurity Analyst
+
+Summary:
+Driven Cyber Security student with a passion for analyzing and preventing security breaches. Committed to implementing proactive measures to secure digital assets.
+
+Education:
+
+Bachelor of Science in Cyber Security | PQR University | Graduation: October 2024
+Certifications:
+
+CompTIA Security+ | CompTIA | Certified in September 2023
+Skills:
+
+Cybersecurity Analysis
+Security Incident Response
+Firewall Management
+Vulnerability Management
+Security Tools: Wireshark, GRR Rapid Response
+Programming: Python, PowerShell
+Contact:
+
+Email: william.anderson@email.com
+LinkedIn: linkedin.com/in/williamanderson
+
+
+
+
+

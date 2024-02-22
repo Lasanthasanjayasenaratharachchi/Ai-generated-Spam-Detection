@@ -1,0 +1,14 @@
+Hi Alex,
+
+I hope this email finds you well. As an aspiring ethical hacker, I believe the "Practical API Hacking" course at XYZ-Edu can offer you invaluable insight into the complex process of API hacking. It seems perfectly aligned with your dedication to exploring vulnerabilities and devising secure solutions.
+
+Applying your existing skills in Python, Bash, and security tools like Nmap, Wireshark, Metasploit, the course will guide you through industry-standard tools such as Burp Suite and Postman. You'll be able to identify and exploit vulnerabilities in API-powered applications, and confidently navigate the cybersecurity landscape.
+
+I'm excited to let you know that we're currently offering a 20% discount for the first 100 students who enrol. You can learn more about the course and apply the discount at this link: https://academy.xyz-edu.com/p/hacking-apis
+
+Should you wish to opt-out of such personalised recommendations, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe
+
+We hope to welcome you on board and contribute to your journey in cybersecurity.
+
+Thank you,
+Greg, XYZ-Edu Sales Rep

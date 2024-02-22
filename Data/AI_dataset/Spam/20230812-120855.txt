@@ -1,0 +1,21 @@
+Hi Sophia,
+
+I hope this email finds you well. As an aspirational Penetration Tester with a keen interest in cybersecurity, I'm reaching out to share an opportunity that might align well with your ambitions. 
+
+Our team at XYZ-Edu offers a course titled, "Practical Malware Analysis & Triage," which focuses on advanced malware analysis techniques. As you've demonstrated proficiency in penetration testing, network security, and security tools like Burp Suite and Kali Linux, this course could be a valuable addition to your skillset. 
+
+You may explore more here: https://academy.xyz-edu.com/p/practical-malware-analysis-triage
+
+Investing in this course would provide hands-on experience with building malware analysis labs, which may further enable you to identify and mitigate security weaknesses. Don't miss out on this opportunity-- we're offering a 20% discount for the first 100 students!
+
+As cybersecurity threats continue to evolve, deepening your knowledge with Practical Malware Analysis & Triage could be an incredible asset. I'm confident that this solution can facilitate your growth in cybersecurity.
+
+If you want to unsubscribe our emails you can always use this link to do so: https://xyz-edu.com/newsletter/unsubscribe 
+
+Let me know if you would like to discuss any further. 
+
+Thank you,
+
+Greg,
+Sales Representative,
+XYZ-Edu

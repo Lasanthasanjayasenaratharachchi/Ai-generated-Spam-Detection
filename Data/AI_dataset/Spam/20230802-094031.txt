@@ -1,0 +1,10 @@
+
+Hi Emily,
+
+I hope this email finds you well. My name is Greg and I'm a sales rep at XYZ-Edu. I'm writing to you because I believe The External Pentest Playbook can help you achieve your goals in the cybersecurity field.
+
+As a passionate cybersecurity student with a focus on threat analysis and defense, I'm sure you understand the importance of having a strong security posture and fostering a safe digital environment. The External Pentest Playbook is designed to help you gain a better understanding of the external pentest attack methodology and mindset, improve your overall pentest skillset and client relations, and prepare for pentest job interviews.
+
+The course covers topics such as attack methodology and mindset, pentest skillset and client relations, and job interview preparation. It also covers objectives, important documents and procedures, scope verification, attack strategies, vulnerability scanning, OSINT and information gathering techniques, attacking O365/OWA, attacking login portals, bypassing MFA and escalating access, report writing, identifying common pentest findings, and client debriefs, retests, and attestations.
+
+As an added bonus, we are offering a 20% discount on The External Pentest Playbook for the first 100 students.

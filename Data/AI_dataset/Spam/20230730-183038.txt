@@ -1,0 +1,17 @@
+
+Hi John,
+
+I hope this email finds you well. As a Cyber Security student, I'm sure you understand the importance of staying up to date on the latest trends and best practices in the field. That's why I'm writing to you today about our Mobile Application Penetration Testing course.
+
+At XYZ-Edu, we understand the importance of Mobile Application Penetration Testing and how it can help you stay ahead of the curve. Our course covers techniques to extract sensitive data from applications, as well as methodologies and practices for Bug Bounty hunting. You'll also learn about the OWASP Top Ten for Mobile and how to jailbreak an iOS device.
+
+To make it even more attractive, we're offering a 20% discount on the course for the first 100 students. You can find more information about the course and the discount here: https://academy.xyz-edu.com/p/mobile-application-penetration-testing
+
+I'm confident that this course will help you stay ahead of the competition and gain the skills you need to succeed in the Cyber Security field.
+
+Thank you for your time and I look forward to hearing from you.
+
+Best regards,
+
+Greg
+Sales Rep

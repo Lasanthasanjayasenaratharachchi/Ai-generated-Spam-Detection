@@ -1,0 +1,16 @@
+Hi William,
+
+Hope this email finds you well. I'm Greg from XYZ-Edu and I noticed your passion for cybersecurity. In line with your interest, I think our "Practical API Hacking" course is an excellent opportunity for you to improve your skills.
+
+This course equips you with the tools and knowledge needed to effectively navigate API hacking complexities, aligning perfectly with your existing skill set and future goals. You'll learn about common vulnerabilities in API-powered applications, and how to exploit them effectively.
+
+Moreover, the course provides hands-on experience through demonstration labs, ensuring you bridge the gap between theory and practice. In essence, it's just the kind of value-driven learning experience that can accelerate your journey to becoming a cybersecurity analyst.
+
+As an added bonus, the first 100 students get a 20% discount. Here's the course URL for your reference: https://academy.xyz-edu.com/p/hacking-apis
+
+If you ever wish to stop receiving such personalised recommendations, please use this link: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for your time, let me know if you have any questions.
+
+Best regards,
+Greg

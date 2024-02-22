@@ -1,0 +1,25 @@
+
+Name: Michael Williams
+Headline: Cyber Security Student | Aspiring Cybersecurity Consultant
+
+Summary:
+Cyber Security student with a strong interest in cybersecurity consulting. Keen on developing comprehensive security strategies for organizations to mitigate risks and protect valuable assets.
+
+Education:
+
+Bachelor of Science in Cyber Security | DEF University | Graduation: June 2024
+Certifications:
+
+CompTIA Security+ | CompTIA | Certified in May 2023
+Skills:
+
+Cybersecurity Consulting
+Risk Assessment
+Security Policies
+Incident Handling
+Security Tools: Burp Suite, Splunk
+Programming: Python, JavaScript
+Contact:
+
+Email: michael.williams@email.com
+LinkedIn: linkedin.com/in/michaelwilliams

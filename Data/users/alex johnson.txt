@@ -1,0 +1,25 @@
+Name: Alex Johnson
+Headline: Cyber Security Student | Aspiring Ethical Hacker
+
+Summary:
+Dedicated Cyber Security student focused on honing ethical hacking skills. Enthusiastic about exploring vulnerabilities and devising secure solutions. Committed to staying ahead of the cybersecurity landscape.
+
+Education:
+
+Bachelor of Science in Cyber Security | XYZ University | Graduation: May 2024
+Certifications:
+
+Certified Ethical Hacker (CEH) | EC-Council | Certified in March 2023
+CompTIA Security+ | CompTIA | Certified in July 2023
+Skills:
+
+Network Security
+Penetration Testing
+Incident Response
+Cryptography
+Security Tools: Nmap, Wireshark, Metasploit
+Programming: Python, Bash
+Contact:
+
+Email: alex.johnson@email.com
+LinkedIn: linkedin.com/in/alexjohnson

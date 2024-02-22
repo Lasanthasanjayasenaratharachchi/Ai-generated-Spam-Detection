@@ -1,0 +1,20 @@
+Hi Michael,
+
+Trust this email finds you well!
+
+Seeing your passion for cybersecurity consulting and your impressive skill set in Risk Assessment and Incident Handling, I thought you might be interested in our XYZ-Edu Web Application Penetration Testing course.
+
+This course has been designed to help you enhance your security strategies, apply practical ethical hacking knowledge, and provide hands-on tools and techniques. Our aim is to empower you to protect valuable assets more effectively and mitigate risks more efficiently.
+
+Moreover, you'll get to understand the five stages of hacking and will learn Python 3 for building exploits and port scanners. The course also includes exploit development, post exploitation strategies, and offers invaluable career advice - all tailored to your needs and interests.
+
+Here's a glimpse of what you can expect: https://academy.xyz-edu.com/p/webapp-pentest.
+
+As an early bird offer, we're providing a 20% discount for the first 100 students. So, if this sparks your interest, do enrol soon. 
+
+Should you wish to explore other opportunities or would like to unsubscribe from these updates, feel free to visit this page: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for your time, Michael. Here's to your journey into becoming a proficient cybersecurity consultant!
+
+Best,
+Greg

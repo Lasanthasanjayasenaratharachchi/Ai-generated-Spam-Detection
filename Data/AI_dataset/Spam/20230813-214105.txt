@@ -1,0 +1,14 @@
+Hi Emily,
+
+I hope you're doing well. I’m Greg, a Sales Rep at XYZ-Edu, and I was excited to learn about your passion for Cyber Security and your focus on threat analysis and defense. Our Practical API Hacking course could be an excellent checkpoint on your journey to becoming a cybersecurity expert.
+
+This course provides a comprehensive understanding of common vulnerabilities in API-powered applications, and methods to exploit them. You’ll get hands-on experience with tools like Burp Suite and Postman, which perfectly aligns with your familiarity with Python and other security tools.
+
+As a valued member of our community, we want to offer you a 20% discount on this course for being among the first 100 students. Here's the link to get started: https://academy.xyz-edu.com/p/hacking-apis
+
+Remember, our goal is to help you build a strong security posture and foster a safe digital environment just as you're committed to. If you're no longer interested, you can unsubscribe at any time here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you, Emily, and I look forward to seeing you in class!
+
+Best,
+Greg

@@ -1,0 +1,16 @@
+Hi Jane,
+
+It's Greg here from XYZ-Edu. Hope this email finds you well. I came across your profile and was impressed by your passion and dedication towards Cyber Security.
+
+Given your interest in Cyber Threat Intelligence and Research, I believe our course on Practical Malware Analysis & Triage could really help refine your skills. Here, you will learn advanced malware analysis techniques and understand how to dissect malware samples effectively. The course's hands-on labs will provide you a real-world experience, and our expert instructor, Matt, will guide you throughout.
+
+I am excited to offer you an exclusive 20% discount, exclusively for the first 100 students who enrol. You can find more details about the course here: https://academy.xyz-edu.com/p/practical-malware-analysis-triage
+
+This course will not only add value to your existing skills but will also enhance your ability to combat cyber threats more effectively. 
+
+If you wish to discontinue receiving such emails, please click here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you and best of luck with your cyber security journey.
+
+Regards,
+Greg

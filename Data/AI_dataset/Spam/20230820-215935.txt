@@ -1,0 +1,16 @@
+Hi Emily,
+
+I hope this email finds you well. My name is Greg and I'm a sales rep from XYZ-Edu. I've read your profile and noticed that you're a passionate Cyber Security student with a focus on threat analysis and defense. I admire your commitment to building strong security postures and fostering a safe digital environment.
+
+Given your background and interests, I believe our Mobile Application Penetration Testing course could be an excellent fit for you. This course will enhance your vulnerability assessment skills and complement your proficiency in security tools, providing a solid foundation for a career as a Mobile Application Penetration Tester. You'll learn how to identify and extract sensitive data from mobile apps, which is crucial in today's digital landscape. Please click here to learn more: https://academy.xyz-edu.com/p/mobile-application-penetration-testing
+
+As a token of our appreciation for your passion in Cyber Security, we're offering a 20% discount to the first 100 students who enrol on this course. 
+
+If you wish to stop receiving such beneficial emails from us, you can unsubscribe at any time here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for considering this opportunity, Emily. I'm confident that this course could add tremendous value to your career in Cyber Security.
+
+Best Regards,
+
+Greg
+XYZ-Edu

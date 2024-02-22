@@ -1,0 +1,30 @@
+Embark on an immersive journey into Android and iOS Mobile Application Penetration Testing with XYZ-Edu. This course centers on unveiling common methodologies to extract sensitive data from mobile apps—like API Keys, stored secrets, and Firebase databases—laying a robust groundwork for a rewarding career as a Mobile Application Penetration Tester. Furthermore, it equips you with the tools and practices necessary to venture into the realm of Bug Bounty hunting for mobile applications.
+
+Prerequisites:
+
+Prospective students should have:
+
+A foundational grasp of Web Application or API-based penetration testing.
+
+Basic familiarity with mobile application platforms such as iOS and Android, including fundamental operations like navigation, app installation, etc.
+
+For the Android section of the course, the following device specifications are necessary:
+
+Windows, Linux, or MacOS-based system.
+16 GB of RAM or more to accommodate virtual machines and emulated devices.
+At least 250GB of available storage.
+For the iOS section of the course, these device prerequisites apply:
+
+MacOS-based machine (Macbook, Mac Mini, etc.) or a Linux-based physical machine.
+Preferably 16 GB of RAM and a minimum of 250GB of available storage.
+A physical iPhone or iPad running iOS 16.x or older, for the purpose of jailbreaking.
+What Will You Learn?
+
+Master the Penetration Testing and Mobile Application Penetration Testing Processes.
+Set up a comprehensive lab environment for analyzing iOS and Android mobile apps directly sourced from Apple and Google Play Stores.
+Conduct manual analysis of mobile applications, unveiling hidden information like URLs, Storage Buckets, Firebase Databases, and other stored secrets.
+Implement automated analysis of mobile apps utilizing tools such as MobSF.
+Break SSL Pinning using Objection and Frida for both iOS and Android platforms.
+Explore the OWASP Top Ten for Mobile, gaining insights into common vulnerabilities.
+Gain proficiency in jailbreaking iOS devices.
+Enroll in the XYZ-Edu Mobile Application Penetration Testing course, where you'll gain practical skills, insights, and a strong foundation to excel in the dynamic landscape of mobile application security.

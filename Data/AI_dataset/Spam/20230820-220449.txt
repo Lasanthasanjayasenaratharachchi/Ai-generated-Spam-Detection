@@ -1,0 +1,16 @@
+Hi Alex,
+
+I hope you're doing well. I'm Greg, a sales rep at XYZ-Edu. I understand you're a dedicated Cyber Security student and an aspiring ethical hacker. Your enthusiasm and commitment to honing your skills and staying ahead of the cybersecurity landscape is commendable.
+
+Given your expertise in languages like Python and Bash, I believe our Rust 101 course (https://academy.xyz-edu.com/p/rust-101) would be a perfect fit for you. Rust is known for its speed and memory safety, which can greatly contribute to your cybersecurity toolkit and add more value to your penetration testing skills.
+
+We're offering a 20% discount to the first 100 students who enrol in this course. This is a chance to diversify your skills, improve your expertise, and stay ahead in the ever-changing cybersecurity landscape.
+
+If you wish to unsubscribe from our emails, please follow this link (https://xyz-edu.com/newsletter/unsubscribe). 
+
+Thank you for considering this opportunity. We're looking forward to your positive response.
+
+Best regards,
+
+Greg
+XYZ-Edu

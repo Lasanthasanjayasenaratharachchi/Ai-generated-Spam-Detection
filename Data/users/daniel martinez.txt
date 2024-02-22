@@ -1,0 +1,24 @@
+Name: Daniel Martinez
+Headline: Cyber Security Student | Aspiring Cybersecurity Researcher
+
+Summary:
+Passionate Cyber Security student with a keen interest in cybersecurity research. Driven to discover innovative solutions to combat emerging cyber threats.
+
+Education:
+
+Bachelor of Science in Cyber Security | JKL University | Graduation: April 2024
+Certifications:
+
+CompTIA Security+ | CompTIA | Certified in June 2023
+Skills:
+
+Cybersecurity Research
+Malware Analysis
+Threat Intelligence
+Cryptography
+Security Tools: IDA Pro, Wireshark
+Programming: Python, C++
+Contact:
+
+Email: daniel.martinez@email.com
+LinkedIn: linkedin.com/in/danielmartinez

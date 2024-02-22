@@ -1,0 +1,16 @@
+Hi Olivia,
+
+I hope this finds you well. As a dedicated cybersecurity student with specific interests in Data Protection and Security Tools, I believe our "Practical API Hacking" course can help you expand your expertise. This course is designed to enhance the web application security skills of both beginners and experienced individuals, much like yourself. 
+
+Considering your proficiency in Python and the use of tools like Wireshark and Nessus, understanding and navigating the complexities of hacking APIs would be a valuable addition to your skill set. We offer an in-depth study of tools like Burp Suite and Postman, focusing on the identification and exploitation of common vulnerabilities in API-powered applications. 
+
+Given your ambition and dedication, we thought you might like to be one of the first to take advantage of our new program. As such, we're offering you a special 20% discount for being amongst the first 100 students. Here is the course link: https://academy.xyz-edu.com/p/hacking-apis
+
+Finally, if you wish to stop receiving updates, please follow the link to unsubscribe: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for your time, Olivia. We hope to see you in the course soon.
+
+Best regards,
+Greg
+Sales Rep
+XYZ-Edu

@@ -1,0 +1,21 @@
+Hi William,
+
+I hope this email finds you well. I came across your profile and noticed your passion for analyzing and preventing security breaches. As a driven Cyber Security student, you understand the importance of implementing proactive measures to secure digital assets.
+
+I wanted to reach out to you personally and let you know about our Web Application Penetration Testing course at XYZ-Edu. This course is designed for beginners and enthusiasts like yourself who want to learn how to secure web systems. It offers a hands-on approach to ethical hacking, teaching valuable tools and techniques for real-world scenarios.
+
+The Web Application Penetration Testing course covers various stages of hacking, including reconnaissance, scanning, enumeration, exploitation, and exploit development. It also includes hands-on examples of OWASP Top 10 vulnerabilities, wireless attacks, and documentation/report writing for conducting penetration tests.
+
+I believe this course would be immensely beneficial to you as it will enhance your skills in ethical hacking, networking, Linux, and Python. It will provide you with the knowledge and expertise needed to identify and exploit vulnerabilities in web applications, and ultimately strengthen your ability to prevent security breaches.
+
+As a special offer for the first 100 students, we are offering a 20% discount on the Web Application Penetration Testing course. You can enroll using this link: [insert course URL: https://academy.xyz-edu.com/p/webapp-pentest].
+
+If you have any questions or would like more information, please feel free to reach out to me. I'm here to help.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Kind regards,
+Greg
+XYZ-Edu Sales Representative
+
+Unsubscribe: [insert unsubscribe link: https://xyz-edu.com/newsletter/unsubscribe]

@@ -1,0 +1,16 @@
+Hi William,
+
+I hope this finds you well. As an aspiring Cybersecurity Analyst, I believe our Web Application Penetration Testing course at XYZ-Edu could be of great interest to you.
+
+Our course is designed to help you uncover vulnerabilities in web applications, and provide strategies for strengthening security systems. With your existing skills in Python and cybersecurity, the content aligns well with your career goals.
+
+Here's the course link: https://academy.xyz-edu.com/p/webapp-pentest
+
+As a special offer, we're providing a 20% discount for the first 100 students. This could be a valuable opportunity not only to enhance your knowledge but also to network with other cybersecurity enthusiasts.
+
+To unsubscribe from future communications, please click here: https://xyz-edu.com/newsletter/unsubscribe
+
+Looking forward to seeing you onboard, William.
+
+Thank you,
+Greg

@@ -1,0 +1,16 @@
+Hi Alex,
+
+I'm Greg, a sales rep at XYZ-Edu. Firstly, I wanted to congratulate you on your active pursuit of becoming an ethical hacker. The combination of your cybersecurity focus, coupled with your certifications, is a clear testament to your dedication and passion in this field.
+
+As you continue to hone your skills, we believe our course on "Practical API Hacking" might add essential value to your journey. This course provides in-depth insights into the complexities of API hacking, including common vulnerabilities and their exploitation.
+
+Given your skills in Python, Bash, and security tools like Nmap, Wireshark, Metasploit, you'd be harnessing these tools optimally throughout the duration of this course. You can check out all the course details here: https://academy.xyz-edu.com/p/hacking-apis
+
+As an early bird advantage, we are currently offering a 20% discount to the first 100 students. This is a great opportunity to expand your expertise by investing in practical knowledge that can directly influence your career in ethical hacking.
+
+Just a quick note, if you ever wish to not receive information about our courses, you can easily unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe 
+
+Thank you in advance for your time and consideration.
+
+Best regards,
+Greg

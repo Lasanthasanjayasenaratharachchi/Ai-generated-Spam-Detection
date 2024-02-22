@@ -1,0 +1,14 @@
+Hi Jane,
+
+I hope this email finds you well. Given your passion for Cyber Security and your desire to further your knowledge in the field, I believe you would greatly benefit from our course, The External Pentest Playbook. This course offers a comprehensive guide on external penetration testing, essential for strengthening your skillset and remaining effective against the constantly evolving cyber threats.
+
+From advanced techniques to client relations, this course is specially tailored with a focus on practical learning, enhancing your ability to effectively communicate findings and improve your cybersecurity posture. With your experience in ethical hacking and vulnerability assessments, this course can help you take your skills to the next level.
+
+Moreover, as a special promotion, we're offering a 20% discount to the first 100 students to sign up: https://academy.xyz-edu.com/p/external-pentest-playbook. This could be a great opportunity for you to expand your expertise at a reduced cost.
+
+If you would like to opt-out of such emails, you can do so at the following link: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for your time, and I hope to see you in the course.
+
+Best Regards,
+Greg

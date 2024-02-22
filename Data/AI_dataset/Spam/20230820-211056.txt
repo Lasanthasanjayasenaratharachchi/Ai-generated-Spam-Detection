@@ -1,0 +1,12 @@
+Hi John,
+
+I hope this email finds you well. I came across your profile and noticed your passion for cybersecurity and ethical hacking.
+
+I thought I'd share a resource that could further enhance your expertise and align with your interests. Our course, "Practical API Hacking", offers in-depth knowledge of API vulnerabilities and their exploitation, complementing your skills in Python, Bash, and security tools like Metasploit. 
+
+This course might be an excellent addition to your learning journey, providing you with vital industry-standard tools and real-world application scenarios. Plus, as one of the first 100 students, you can benefit from a 20% discount. Here's the link to check it out: https://academy.xyz-edu.com/p/hacking-apis
+
+I'm here to help if you have any questions or need further information. If you wish to stop receiving emails like this, simply click here: https://xyz-edu.com/newsletter/unsubscribe 
+
+Thank you,
+Greg

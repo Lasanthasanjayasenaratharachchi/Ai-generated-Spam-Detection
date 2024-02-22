@@ -1,0 +1,16 @@
+
+Hi Jane,
+
+I hope this email finds you well. My name is Greg and I'm a sales rep at XYZ-Edu. I'm writing to you because I believe Rust 101 can help you achieve your interests and expertise in cybersecurity.
+
+Rust 101 is a course designed to help you learn the Rust programming language. It covers core Rust topics such as primitives, variables, functions, error handling, memory management, and ownership. With Rust 101, you'll be able to understand the difference between Rust and other programming languages, write basic and complex programs in Rust, understand memory management and ownership in Rust, and improve your overall development skills.
+
+As a special offer, we're offering a 20% discount on Rust 101 for the first 100 students. To take advantage of this offer, simply click on the link below and use the code RUST20 at checkout.
+
+https://academy.xyz-edu.com/p/rust-101
+
+I'm confident that Rust 101 will help you take your cybersecurity skills to the next level. If you have any questions, please don't hesitate to reach out.
+
+Thank you,
+
+Greg

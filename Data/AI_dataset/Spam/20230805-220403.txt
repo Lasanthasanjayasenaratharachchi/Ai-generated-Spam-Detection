@@ -1,0 +1,21 @@
+Hi Olivia,
+
+I hope this email finds you well. I came across your profile and noticed your interest in becoming a cybersecurity specialist. As a sales rep at XYZ-Edu, I wanted to reach out and let you know about an exciting opportunity that can help you achieve your goals.
+
+Our Practical Ethical Hacking course is designed to provide hands-on training in the practical side of ethical hacking. It covers a wide range of topics, from the basics of Linux and Python programming to exploiting vulnerabilities in computer systems. The course also includes modules on Active Directory penetration testing, post-exploitation techniques, and web application penetration testing.
+
+I believe that this course would be highly beneficial for you, given your background in cybersecurity fundamentals, data protection, and identity and access management. It will provide you with the tools and concepts that are actually used in the real world, helping you implement effective security measures and ensure data integrity.
+
+As a special offer, we are currently offering a 20% discount on this course for the first 100 students. You can find more information and enroll in the course using the following link: [insert link here]
+
+If you have any questions or would like further information, please feel free to reach out to me. I would be more than happy to assist you.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Best regards,
+
+Greg
+Sales Representative
+XYZ-Edu
+
+[Unsubscribe link]

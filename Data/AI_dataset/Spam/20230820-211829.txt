@@ -1,0 +1,18 @@
+Hi William,
+
+I hope this email finds you well. I came across your profile and noticed your enthusiasm for Cyber Security, particularly your interest in preventing security breaches and proactive measures.
+
+At XYZ-Edu, we have a course called Practical Windows Forensics, which could be the perfect fit for you. This comprehensive guide to digital forensic investigations on Windows systems will elevate your skills in cybersecurity analysis and incident response. Here is the course URL for you to explore: https://academy.xyz-edu.com/p/practical-windows-forensics
+
+The course provides insights into real-world attack patterns, artifact analysis, and interpretation of digital traces. It also introduces various essential tools for effective analysis, including some you're already familiar with, like Wireshark.
+
+To make it even more appealing, we are offering a 20% discount for the first 100 students. This is a great opportunity to improve your expertise and add more value to your cybersecurity journey.
+
+If you ever want to opt-out of our emails, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for considering this opportunity. I look forward to your positive response.
+
+Kind regards,
+
+Greg
+Sales Rep, XYZ-Edu

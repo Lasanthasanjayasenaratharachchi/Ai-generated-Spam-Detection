@@ -1,0 +1,14 @@
+Hi Olivia,
+
+I hope this email finds you well. I noticed your impressive profile as an ambitious Cyber Security student, and it's clear that your dedication to ensuring data integrity is unwavering. 
+
+At XYZ-Edu, we have a comprehensive Practical Ethical Hacking course which I believe would be an excellent opportunity for you to deepen your cybersecurity knowledge and hone your skills. This course is designed to provide insights into the daily routines of ethical hackers, enhance your proficiency in Python, and familiarise you with vital security tools such as Wireshark and Nessus. 
+
+Moreover, we understand the importance of real-time experiences, so our course includes a mid-term capstone project that mimics the environment of ten vulnerable boxes, allowing you to think like an attacker and develop effective strategies. You can find more information about the course here: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course.
+
+As a future cybersecurity specialist, we believe this course will add significant value to your career development. To make it even more accessible, we are offering a 20% discount for the first 100 students who enrol.
+
+We'd love to be a part of your cybersecurity journey, Olivia. Please feel free to reach out if you have any questions or need further information. If you wish to unsubscribe from these emails, you can do so here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you,
+Greg

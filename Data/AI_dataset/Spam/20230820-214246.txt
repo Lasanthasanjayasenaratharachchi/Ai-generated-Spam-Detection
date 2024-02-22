@@ -1,0 +1,14 @@
+Hi Michael,
+
+I hope this email finds you well. My name is Greg, a sales rep at XYZ-Edu. I noticed your impressive background in Cybersecurity, and I believe our Practical API Hacking course could be a perfect addition to your skill set.
+
+Being an aspiring cybersecurity consultant, you already understand the importance of staying ahead of potential threats. Our course, which covers both theoretical and practical aspects of API security, will help you identify vulnerabilities in API-powered applications and learn how to exploit them effectively. As you're proficient in using security tools like Burp Suite, this course could be the bridge you're looking for to advance your expertise.
+
+We're currently offering a 20% discount to the first 100 students, and I thought you might be interested. You can find more details and enrol at https://academy.xyz-edu.com/p/hacking-apis. Remember, the best investment is in knowledge!
+
+If you wish to unsubscribe from our emails, please use this link: https://xyz-edu.com/newsletter/unsubscribe. 
+
+Looking forward to your positive response. 
+
+Thank you,
+Greg

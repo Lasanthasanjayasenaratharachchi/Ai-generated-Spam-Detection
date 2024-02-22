@@ -1,0 +1,17 @@
+Hi Emily,
+
+I hope this email finds you well. As a passionate Cyber Security student with a focus on threat analysis and defense, I believe you might be interested in our course, Practical Malware Analysis & Triage (PMAT). This immersive course will develop your skills in analyzing and dissecting malware samples - a crucial element to enhancing your cybersecurity expertise.
+
+With PMAT, you'll get hands-on experience constructing malware analysis labs, including local virtual machines and a rapidly deployable cloud-based network on AWS. We believe this will provide you a significant edge in your journey towards building a strong and safe digital environment.
+
+We're currently offering a 20% discount for the first 100 students, and I'd hate for you to miss out. Find out more at https://academy.xyz-edu.com/p/practical-malware-analysis-triage
+
+Remember, it's not just about learning; it's about adding value to your cybersecurity career.
+
+If you feel like this isn’t for you and want to unsubscribe, please visit here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you and take care.
+
+Best,
+Greg
+Sales Rep, XYZ-Edu

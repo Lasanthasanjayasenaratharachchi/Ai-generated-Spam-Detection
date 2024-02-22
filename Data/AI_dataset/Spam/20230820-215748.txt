@@ -1,0 +1,15 @@
+Hi Emily,
+
+I hope this message finds you well. Given your passion for Cyber Security and commitment to threat analysis and defence, I thought you might be interested in our advanced course, The External Pentest Playbook.
+
+The Playbook is designed to enhance your penetration testing skills, with a focus on external threats. It covers a range of strategies, from attacking Office 365 and Outlook Web App environments to bypassing Multi-Factor Authentication and escalating access. There's also a focus on client communications, a crucial skill for anyone in our field.
+
+You've already demonstrated a solid understanding of Cyber Security, and I think this course could be a great next step in your journey. And as an added incentive, we're currently offering a 20% discount to the first 100 students who sign up: https://academy.xyz-edu.com/p/external-pentest-playbook
+
+If you ever wish to stop receiving such educational opportunities, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe
+
+Looking forward to hearing from you soon, Emily. Thank you for your time.
+
+Best regards,
+Greg
+Sales Rep, XYZ-Edu

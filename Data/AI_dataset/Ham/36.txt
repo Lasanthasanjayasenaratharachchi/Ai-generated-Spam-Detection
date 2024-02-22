@@ -1,0 +1,17 @@
+
+UWEcyber Guest Speaker Seminar Series 2023
+
+"Digital Forensics and Cyber Crime from a US Federal Law perspective"
+
+Craig Porter, OpenText
+
+Friday 24th March, 12:00, Room 6X109
+
+Abstract: I will discuss previous experiences and cases I was involved within the Digital Forensics/Cyber Crime world of US Federal Law Enforcement. This will include breaking into the Digital Forensics Law Enforcement/Digital Forensic Incident Response job world, war stories, lessons learned and Q&A.
+
+Biography: Craig Porter is a Senior Account Executive with Open Text Inc. covering the Open Text Digital Forensics Academia and LATAM. He brings to client engagements more than 20 years of experience as a Special Agent with the Federal Bureau of Investigation, for which he handled some of the nation’s most sensitive, highest-priority terrorism and cybersecurity cases. Previously, Craig spent nearly a decade as Supervisory Special Agent and computer forensic examiner at the San Diego Regional Computer Forensics Laboratory (SDRCFL), a partnership between the FBI and other law enforcement agencies, which he led as its Director and Supervisory Special Agent from 2008 to 2012. He is widely regarded as an expert on computer forensic analysis, intrusion and has a keen understanding of practical application of analytics in uncovering cyber threats, vulnerabilities, and exploits. He has held certifications as a computer forensic examiner by the FBI and by the International Association of Computer Investigative Specialists (IACIS). He was also certified as an FBI Cyber Agent and holds SANS/GIAC, CompTIA A+, Network+, and Security + certifications.
+
+UWEcyber is an NCSC-recognised Academic Centre of Excellence in Cyber Security Education (ACE-CSE). We host a guest seminar series on campus at the University of the West of England (UWE Bristol). It is an opportunity to hear from invited speakers from industry, academia and government on all things related to cyber security, to expand your knowledge and understand across the broad spectrum of cyber security. All are welcome to attend our seminars, and are intended to be a inclusive space for both students and staff alike. We encourage you to attend, listen, discuss and debate - speakers are often quite keen to talk about job opportunities - so another excellent reason to join and take part in the discussions!
+
+http://go.uwe.ac.uk/uwecyber
+https://twitter.com/uwecyber

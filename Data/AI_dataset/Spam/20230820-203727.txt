@@ -1,0 +1,14 @@
+Hi John,
+
+I hope this email finds you well. I'm Greg, a sales rep at XYZ-Edu. I noticed from your LinkedIn profile that you're an aspiring Cyber Security student with a passion for ethical hacking. I believe our Web Application Penetration Testing course could provide excellent value to you. 
+
+The course offers a practical, hands-on approach to ethical hacking, teaching vital tools and techniques used in real-life scenarios. It is designed to equip students with the necessary skills and knowledge to become proficient web security experts. 
+
+I am delighted to let you know that we are offering a 20% discount on this course for the first 100 students. This could be a great opportunity for you to master securing web systems and further your ambitions in the field. Here's the course link: https://academy.xyz-edu.com/p/webapp-pentest.
+
+If you feel this course isn't right for you now, you can always unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you, and I look forward to your response.
+
+Best,
+Greg

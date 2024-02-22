@@ -1,0 +1,16 @@
+Hi Olivia,
+
+I hope this email finds you well. I noticed your impressive background in Cybersecurity and your dedication to becoming a specialist in this field. 
+
+At XYZ-Edu, we believe our Practical Ethical Hacking course would be an excellent fit for you. This comprehensive course covers external/internal network penetration testing, wireless penetration testing, and web application penetration testing, all of which align with your current skills and future career plans.
+
+Additionally, we've noted your proficiency in Python, which is a key language in ethical hacking. Our course will guide you to further master Python, teach you effective notekeeping, and introduce you to Linux, all the while ensuring a hands-on learning experience.
+
+To make it even more appealing, we're offering a 20% discount for the first 100 students who enrol. More information can be found at: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course. 
+
+Feel free to get in touch if you have any questions. We're here to assist you on this exciting learning journey. 
+
+If you'd prefer not to receive such emails in the future, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you, 
+Greg

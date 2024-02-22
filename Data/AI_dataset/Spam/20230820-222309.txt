@@ -1,0 +1,16 @@
+Hi Emily,
+
+I hope this message finds you well. My name is Greg, a sales representative from XYZ-Edu. As an aspiring cybersecurity professional with a focus on threat analysis and defense, I'm sure you're always looking for ways to enhance your skills and broaden your knowledge. 
+
+We've recently launched a course on "Practical API Hacking" which I believe could contribute immensely to your learning journey. This course dives deep into API vulnerabilities and exploitation, providing practical labs to bridge the gap between theoretical knowledge and hands-on experience. 
+
+Given your impressive array of skills and certifications, I believe this course could provide you with the opportunity to further refine your cybersecurity expertise. Plus, as a token of our appreciation for your commitment to fostering a safer digital environment, we are offering a 20% discount to the first 100 students to enrol.
+
+To learn more or start your journey with us, please visit: https://academy.xyz-edu.com/p/hacking-apis
+
+If you feel like this isn't for you, feel free to unsubscribe anytime here: https://xyz-edu.com/newsletter/unsubscribe
+
+Looking forward to supporting you in your journey to becoming a cybersecurity expert, Emily.
+
+Thank you,
+Greg

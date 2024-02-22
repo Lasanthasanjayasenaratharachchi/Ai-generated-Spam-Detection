@@ -1,0 +1,15 @@
+Hi John,
+
+I hope this email finds you well. As a Cyber Security student with a passion for ethical hacking and network security, I thought you might be interested in enhancing your skills with our 'Practical API Hacking' course. 
+
+This course is designed to help you navigate the complexities of web application security, offering hands-on experience in identifying and exploiting vulnerabilities in API-powered applications. It’s a perfect way to marry your theoretical knowledge with practical skills, thereby solidifying your understanding of the subject matter.
+
+To make it even more appealing, we're offering a special 20% discount for the first 100 students. You can find all the details here: https://academy.xyz-edu.com/p/hacking-apis.
+
+Remember, our courses are not just about learning, they're about securing your future. If for any reason you’d prefer not to receive these opportunities, please feel free to unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you, John. I look forward to hearing from you.
+
+Best Regards,
+Greg,
+Sales Rep, XYZ-Edu

@@ -1,0 +1,16 @@
+Hi Jane,
+
+I hope this email finds you well. As a passionate Cyber Security student with excellent ethical hacking skills, I thought you might be interested in an exciting opportunity that could greatly enhance your expertise in API security.
+
+Our course, "Practical API Hacking" at XYZ-Edu, offers hands-on experience with industry-standard tools like Burp Suite and Postman, which coincides with your current skill set. It's designed to advance your knowledge in identifying and exploring common vulnerabilities in API-powered applications, perfectly aligning with your ongoing interests in Cyber Threat Intelligence and Bug Bounty Programs.
+
+We've also noticed your active participation in Cybersecurity Conferences and Workshops, which suggests that this course could be a valuable addition to your learning journey. 
+
+For the first 100 students, we're offering a 20% discount. You can find more information and enroll here: https://academy.xyz-edu.com/p/hacking-apis
+
+If you decide that this course isn't for you, and you'd prefer not to receive such emails in the future, please unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for your time, Jane, and all the best in your cybersecurity adventures!
+
+Best,
+Greg

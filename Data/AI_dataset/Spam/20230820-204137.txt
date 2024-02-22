@@ -1,0 +1,17 @@
+Hi Daniel,
+
+As an aspiring cybersecurity researcher, I noticed your keen interest in discovering innovative solutions to combat emerging cyber threats. Our "Practical API Hacking" course will be an excellent addition to your arsenal.
+
+This course will provide you with a comprehensive understanding of API vulnerabilities and hands-on experience in using tools like Burp Suite and Postman. As APIs are a common vector for cyber threats, mastering API hacking will greatly enhance your ability to safeguard against these risks.
+
+To make it more interesting, we're currently offering a 20% discount for the first 100 students. Here's the course URL: https://academy.xyz-edu.com/p/hacking-apis. 
+
+Remember, it's not just about the value for money, it's the value of the knowledge you'll gain and the doors it will open for you in your cybersecurity career. 
+
+If you're no longer interested in our emails, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you, 
+
+Greg,
+Sales Rep,
+XYZ-Edu

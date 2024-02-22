@@ -1,0 +1,14 @@
+Hi William,
+
+I hope this email finds you well. As an aspiring Cybersecurity Analyst with a keen interest in security incident response and vulnerability management, I thought you might be interested in our course on Practical Windows Forensics.
+
+Considering your passion for analysing and preventing security breaches, this course could offer significant value to you. It covers a detailed digital forensic investigation on a Windows system, including real-world attack scenarios and analysis of forensic artifacts. This will allow you to expand your expertise, particularly in analysing Windows disks and memory, and could enhance your proactive approach to securing digital assets.
+
+We're currently offering a 20% discount to the first 100 students who enrol. So, there's no better time than now to take your skills to the next level. You can find more information and sign up at https://academy.xyz-edu.com/p/practical-windows-forensics.
+
+If you're not interested in receiving emails like this, feel free to unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you for considering this opportunity, William. We hope to see you in the course soon!
+
+Best,
+Greg, Sales Rep at XYZ-Edu

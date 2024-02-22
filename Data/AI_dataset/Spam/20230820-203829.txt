@@ -1,0 +1,14 @@
+Hi Sophia,
+
+I hope this email finds you well. My name is Greg, a sales rep from XYZ-Edu. I noticed that you're an aspiring Penetration Tester with an interest in Cyber Security. I'm reaching out as I believe our Web Application Penetration Testing course could be a perfect match for your interests and career aspirations.
+
+Our course offers practical, hands-on learning in ethical hacking, identifying vulnerabilities, and enhancing web application security. It's designed to complement the skills you've already gained, such as using Burp Suite and Kali Linux. I believe it will take your proficiency to the next level, equipping you with robust real-world skills.
+
+As part of our commitment to supporting the next generation of Cyber Security professionals, we're offering a 20% discount to the first 100 students who enrol. Here's the course URL for your convenience: https://academy.xyz-edu.com/p/webapp-pentest.
+
+Please feel free to reach out if you have any questions or need further information. Meanwhile, if you wish to unsubscribe from our emails, you can do so here: https://xyz-edu.com/newsletter/unsubscribe. 
+
+Thank you for your time and consideration, Sophia. I'm looking forward to helping you advance your career in Cyber Security.
+
+Best Regards,
+Greg

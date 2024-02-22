@@ -1,0 +1,16 @@
+Hi Daniel,
+
+I found your profile inspiring, and I can see you have a passion for cybersecurity research and a solid grounding in programming. As a Cyber Security student with hands-on experience in Python and C++, I believe our Rust 101 course could greatly enhance your programming capabilities.
+
+Rust is emerging as a key language in secure system design, which complements your cybersecurity interests. This course will provide insights into memory management and ownership, key areas in mitigating cyber threats. Dive deeper into Rust's unique features, become proficient in creating programs, and enhance your overall development skills. 
+
+As one of the first 100 students, you'll get a 20% discount on this course. You can find more details here: https://academy.xyz-edu.com/p/rust-101
+
+I truly believe that the Rust 101 course could be the stepping stone to further innovative solutions in your cybersecurity research journey. 
+
+Looking forward to hearing from you and, of course, you can opt-out of our emails anytime using this link: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you,
+
+Greg
+XYZ-Edu Sales Team

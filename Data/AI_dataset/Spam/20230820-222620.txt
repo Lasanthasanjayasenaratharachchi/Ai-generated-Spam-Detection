@@ -1,0 +1,14 @@
+Hi Daniel,
+
+I hope this email finds you well. As an aspiring cybersecurity researcher, I thought you might be interested in our Mobile Application Penetration Testing course at XYZ-Edu.
+
+This course aligns perfectly with your keen interest in cybersecurity research and fighting emerging cyber threats. It offers a deep dive into the vulnerabilities of mobile applications, including practical skills and solid understanding of mobile application security. The techniques you will learn, such as extracting sensitive information from apps and studying the OWASP Top Ten for Mobile, can significantly enhance your threat intelligence and malware analysis capabilities.
+
+As a special offer, we are providing a 20% discount for the first 100 students. Here's the link to the course: https://academy.xyz-edu.com/p/mobile-application-penetration-testing
+
+Remember, the world of cybersecurity is constantly evolving, and it's such courses that can keep you at the forefront. If you ever wish to unsubscribe from our emails, you can do so here: https://xyz-edu.com/newsletter/unsubscribe
+
+Let me know if you have any questions. I'd be more than happy to assist.
+
+Thank you,
+Greg

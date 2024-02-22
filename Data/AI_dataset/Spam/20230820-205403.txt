@@ -1,0 +1,16 @@
+Hi Sophia,
+
+I hope this email finds you well. I noticed your passion for cybersecurity and penetration testing and your proficiency in Python and SQL. I believe expanding your coding knowledge with Rust could be the perfect next step for you.
+
+Rust 101 is a comprehensive course that could add considerable value to your skill set. It's great for memory management and could provide a new perspective on handling security weaknesses, directly contributing to your cyber defense strategies.
+
+The first 100 students will get a 20% discount, and I thought you'd be interested. Here's the course link: https://academy.xyz-edu.com/p/rust-101.
+
+I think Rust 101 could really take your penetration testing skills to the next level, Sophia. Let me know if you have any questions or need additional information.
+
+If you'd prefer, you can unsubscribe from our emails by clicking here: https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you, 
+
+Greg
+Sales Rep, XYZ-Edu

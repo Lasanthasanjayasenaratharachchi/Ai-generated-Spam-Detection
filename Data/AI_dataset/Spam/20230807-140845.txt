@@ -1,0 +1,18 @@
+Hi John,
+
+I hope this email finds you well. I came across your profile and noticed your passion for safeguarding digital assets and data as a Cyber Security student. I believe that our Rust 101 course can greatly benefit you in achieving your interests and expertise.
+
+Rust 101 is a comprehensive program designed to teach the foundational knowledge of the Rust programming language. It covers core concepts such as primitives, variables, functions, error handling, memory management, and ownership. Whether you are a beginner or already familiar with coding, this course will equip you with the necessary skills to become a confident Rust programmer.
+
+Considering your background in cybersecurity, Rust 101 will offer you a unique perspective on programming and enhance your ability to write secure and efficient code. The course focuses on the distinctions that set Rust apart from other languages, and emphasizes mastering memory management and ownership, which are fundamental aspects of Rust.
+
+To learn more about Rust 101 and take advantage of our limited-time offer, I invite you to visit our website at https://academy.xyz-edu.com/p/rust-101. As one of the first 100 students, you will receive a special 20% discount on the course fee.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Kind regards,
+
+Greg
+XYZ-Edu Sales Representative
+
+Unsubscribe: https://xyz-edu.com/newsletter/unsubscribe

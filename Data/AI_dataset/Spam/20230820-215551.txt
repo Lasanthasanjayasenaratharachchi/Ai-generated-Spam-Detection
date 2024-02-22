@@ -1,0 +1,14 @@
+Hi Emily,
+
+I hope this email finds you well. I've come across your impressive profile and passion for cybersecurity. As a dedicated student with a focus on threat analysis and defense, I believe the knowledge of Rust programming language from our Rust 101 course can significantly add value to your portfolio. 
+
+Rust is gaining momentum in the cybersecurity field because of its memory safety guarantees, and learning it can help improve your cyber defense techniques and vulnerability assessments. As Rust is different from Python, which you're already proficient in, this course can broaden your programming horizon and make you stand out in your field.
+
+Here's the good news! We're offering an exclusive 20% discount for the first 100 students: https://academy.xyz-edu.com/p/rust-101
+
+This opportunity could be the right stepping stone towards your aim of contributing to the cybersecurity community. If you wish to stop receiving such emails, you can unsubscribe here: https://xyz-edu.com/newsletter/unsubscribe 
+
+Thank you for considering this opportunity.
+
+Best,
+Greg

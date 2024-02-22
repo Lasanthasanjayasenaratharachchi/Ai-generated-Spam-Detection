@@ -1,0 +1,14 @@
+
+Hi Emily,
+
+I hope this email finds you well. I'm Greg, a sales rep at XYZ-Edu, and I wanted to reach out to you about our Practical Windows Forensics course.
+
+As a passionate cyber security student with a focus on threat analysis and defense, I'm sure you understand the importance of having a strong understanding of Windows forensics. Our course is designed to provide you with the knowledge and skills you need to perform a full digital forensic investigation of a Windows system.
+
+You'll learn how to prepare a lab, run an attack simulation script, collect data, examine and extract information, and analyze the results. You'll also gain a comprehensive understanding of Windows disk and memory artifacts, and how to use various tools to generate timelines from both disk and memory artifacts.
+
+To make it even more attractive, we're offering a 20% discount on the course for the first 100 students. To take advantage of this offer, simply follow this link: https://academy.xyz-edu.com/p/practical-windows-forensics
+
+I'm confident that this course will help you to further your expertise in cyber security and build strong security postures.
+
+Thank you for your time

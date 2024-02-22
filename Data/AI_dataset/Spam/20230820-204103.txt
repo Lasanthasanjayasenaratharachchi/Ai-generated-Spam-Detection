@@ -1,0 +1,14 @@
+Hi Sarah,
+
+I hope this email finds you well. My name is Greg, a sales representative at XYZ-Edu.
+
+As an aspiring Cyber Defense Specialist with skills in Python and C, I believe our Rust 101 course could enhance your capabilities and help you stay ahead. Rust is gaining popularity among cybersecurity experts for its memory-safe concurrency which can help in fortifying your cyber defense strategies. 
+
+For a limited time, we're offering an exclusive 20% discount to the first 100 students who enrol in Rust 101. I encourage you to take advantage of this offer and expand your programming expertise with Rust. Please use this [link](https://academy.xyz-edu.com/p/rust-101) for enrollment.
+
+If you ever decide to stop receiving updates about our courses, simply click this [link](https://xyz-edu.com/newsletter/unsubscribe).
+
+Thank you for considering XYZ-Edu as your learning partner. 
+
+Best wishes,
+Greg

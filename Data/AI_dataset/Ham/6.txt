@@ -1,0 +1,14 @@
+Greetings from Amazon Web Services,
+
+As you requested, your AWS account password has been updated.
+
+To view or edit your account settings, please visit the “My Account” page at
+
+https://console.aws.amazon.com/billing/home?#/account.
+
+For help and support, visit the AWS Support Center at https://aws.amazon.com/contact-us.
+
+Thank you for using Amazon Web Services.
+
+Sincerely,
+The Amazon Web Service Team

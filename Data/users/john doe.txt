@@ -1,0 +1,31 @@
+Name: John Doe
+Headline: Cyber Security Student
+
+Summary:
+Aspiring Cyber Security student with a passion for safeguarding digital assets and data. Actively learning and staying updated on cybersecurity best practices and trends.
+
+Education:
+
+Bachelor of Science in Cyber Security | XYZ University | Graduating in May 2024
+Certifications:
+
+Certified Ethical Hacker (CEH) | EC-Council | Certified in June 2023
+CompTIA Security+ | CompTIA | Certified in August 2023
+Skills:
+
+Cybersecurity Fundamentals
+Network Security
+Ethical Hacking
+Cryptography
+Security Tools: Metasploit, Nmap, Wireshark
+Programming: Python, Bash
+Interests:
+
+Cybersecurity Research and Trends
+Cybersecurity Conferences
+Bug Bounty Programs
+Networking with Cybersecurity professionals
+Contact:
+
+Email: john.doe@email.com
+LinkedIn: linkedin.com/in/johndoe

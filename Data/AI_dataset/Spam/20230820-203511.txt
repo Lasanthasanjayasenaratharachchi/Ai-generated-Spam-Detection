@@ -1,0 +1,16 @@
+Hi Alex,
+
+I hope this email finds you well. 
+
+Given your impressive track record as a Cyber Security student and your certifications, I thought you might be interested in our course, The External Pentest Playbook. I believe this course will align perfectly with your interest in ethical hacking and your commitment to staying ahead of the cybersecurity landscape.
+
+The course is designed to enhance your external penetration testing strategies and provides comprehensive guidance on aspects such as attacking Office 365 environments, bypassing Multi-Factor Authentication, and improving your client relations and report writing skills.
+
+To make things even better, we are offering a 20% discount to the first 100 students. Here is the course URL: https://academy.xyz-edu.com/p/external-pentest-playbook
+
+I hope you will consider this opportunity to further increase the value of your skillset in the cybersecurity sector. If ever you want to unsubscribe from these emails, please click here: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for your time, and we look forward to welcoming you to our course.
+
+Best,
+Greg

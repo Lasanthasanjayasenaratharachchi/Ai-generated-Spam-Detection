@@ -1,0 +1,15 @@
+Hi Daniel,
+
+I hope this email finds you well. As an aspiring cybersecurity researcher, I thought you might be interested in our course: Practical Ethical Hacking. It aligns closely with your area of interest and can help you gain additional proficiency in your field, build on your current skills, and discover innovative solutions to combat emerging cyber threats.
+
+The course provides a deep dive into various aspects of ethical hacking, from Python programming to exploiting machines using tools like Metasploit. It also covers topics like open-source intelligence techniques, scanning and enumeration, and cryptography, which seems to be well-matched with your skillset.
+
+We're offering an exclusive 20% discount for the first 100 students to enrol. You can access the course here: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course
+
+I believe this course will provide immense value and help propel your career as a Cybersecurity Researcher. If you wish to unsubscribe from such emails in the future, please click on this link: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you, and I wish you the best in your Cybersecurity journey.
+
+Best Regards,
+Greg
+Sales Rep, XYZ-Edu

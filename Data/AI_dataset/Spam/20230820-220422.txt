@@ -1,0 +1,14 @@
+Hi Alex,
+
+I hope this message finds you well. I'm Greg from XYZ-Edu, and I've noticed your passion for Cyber Security and Ethical Hacking. I believe our Rust 101 course (https://academy.xyz-edu.com/p/rust-101) would be an excellent addition to your skillset, as Rust is renowned for its advantages in systems programming, resources safety and performance – aspects directly relevant to your cybersecurity expertise.
+
+Rust 101 aims to enhance your skill in creating both basic and complex programmes, mastering memory management and ownership. This would give you an edge in developing secure solutions and exploring vulnerabilities, which aligns perfectly with your interests and career goals.
+
+As an exclusive offer, we are providing a 20% discount to the first 100 students. This is a fantastic opportunity to learn and grow your skills with us at XYZ-Edu while saving on the cost.
+
+If you wish to explore more about our courses or this offer, feel free to reply. Should you prefer not to receive these opportunities, you can unsubscribe here (https://xyz-edu.com/newsletter/unsubscribe).
+
+Thank you for your time, and I look forward to hearing from you, Alex.
+
+Best Regards,
+Greg, XYZ-Edu

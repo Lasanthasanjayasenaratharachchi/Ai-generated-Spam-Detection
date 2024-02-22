@@ -1,0 +1,13 @@
+Hi Jane,
+
+I hope this message finds you well. I am Greg, a sales rep at XYZ-Edu, and I have some exciting news for you. Given your interest in cybersecurity and your demonstrated skills in ethical hacking, I thought our Practical Ethical Hacking course would be a perfect fit to further enhance your expertise.
+
+This course is a comprehensive learning experience designed to provide a hands-on journey through the key areas of ethical hacking. It covers everything from Python programming and network understanding to vulnerability exploitation and legal aspects of ethical hacking. With your existing knowledge, this course can help you delve deeper into the field. 
+
+Moreover, we're currently offering a 20% discount for the first 100 students. Here is the link to our course: https://academy.xyz-edu.com/p/practical-ethical-hacking-the-complete-course.
+
+I believe this course would be tremendously valuable to you, and I’d love to discuss it further at your earliest convenience. If you wish to unsubscribe from these emails, you can do so at https://xyz-edu.com/newsletter/unsubscribe.
+
+Thank you, 
+
+Greg.

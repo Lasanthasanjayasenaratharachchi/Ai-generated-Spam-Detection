@@ -1,0 +1,18 @@
+Hi Alex,
+
+I hope this email finds you well. I came across your profile and I must say, your dedication to honing your ethical hacking skills is truly impressive. I noticed that you are particularly enthusiastic about exploring vulnerabilities and devising secure solutions. That's why I wanted to reach out to you and let you know about our course, Practical Windows Forensics.
+
+Practical Windows Forensics is a comprehensive guide that covers the analysis of various forensic artifacts on Windows systems. It provides an in-depth understanding of tools and techniques used in data analysis, focusing on Windows disk and memory artifacts. The course also discusses the interpretation of data contained within these artifacts and covers the analysis of timelines generated from them.
+
+I believe that Practical Windows Forensics will greatly contribute to your expertise in the field of cybersecurity. It covers important Windows artifacts and utilizes well-known tools in the industry for analysis. By the end of the course, you will have a thorough understanding of the forensic process and a forensic workstation prepared for future investigations.
+
+To show our appreciation for students like you who are committed to staying ahead of the cybersecurity landscape, I am delighted to offer you a 20% discount on the course fee. This offer is limited to the first 100 students who enroll. You can find more information about the course and avail the discount by visiting this link: [https://academy.xyz-edu.com/p/practical-windows-forensics].
+
+If you have any questions or would like further information, please do not hesitate to reach out. Thank you for your time, and I look forward to helping you achieve your goals in the cybersecurity field.
+
+Thank you,
+
+Greg | Sales Rep
+XYZ-Edu
+
+Unsubscribe: [https://example.com/unsubscribe]

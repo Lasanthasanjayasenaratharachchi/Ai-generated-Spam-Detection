@@ -1,0 +1,9 @@
+
+Hi there,
+You've reached your API usage soft limit of $15.00 for this month, which has triggered this friendly notification email.
+Don't worry, you still have API access! Your current hard limit is set to $20.00. If you reach this amount we'll start rejecting your API requests.
+Manage Billing Limits
+Best,
+The OpenAI team
+You received this email because you have a paid account with OpenAI
+If you have any questions please contact us through our help center

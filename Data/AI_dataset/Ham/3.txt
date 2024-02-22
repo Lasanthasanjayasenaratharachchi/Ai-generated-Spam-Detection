@@ -1,0 +1,54 @@
+We're working on integrating Linode and Akamai. Learn more.
+
+Akamai Logo
+Discover More Services to Help You Grow & Scale
+
+Take your project to the next level
+
+Product Icon
+Need consistent performance? We’ve got you covered.
+
+Dedicated CPU instances run on their own CPU cores. No sharing processors with other instances.
+
+High Memory instances run memory-intensive applications on dedicated CPUs. Perfect for when you need more RAM without increasing storage or vCPUs.
+
+Resize or Deploy Now
+
+Product Icon
+If you need more storage, add an S3-compatible Object Storage bucket and host millions of objects or attach a super fast Block Storage volume to your Linodes in just a few clicks.
+
+Add Object Storage
+
+Attach Block Storage
+
+Product Icon
+Manage and secure your networking all in one place. Add your domains with our built-in DNS Manager, distribute traffic between Linodes with NodeBalancers, and add free Cloud Firewalls to control network traffic.
+
+Configure DNS
+
+Add a NodeBalancer
+
+Explore Cloud Firewalls
+
+Product Icon
+Scale advanced deployments.
+
+Defer management of your database tasks like disaster recovery, backups, and data replication with Managed Databases.
+
+Scale your resources to meet demand with our fully-managed container orchestration engine.
+
+Create a Managed Database
+
+Scale with Managed Kubernetes
+
+--
+
+Akamai
+
+Copyright © 2023 Linode, LLC, 249 Arch Street, Philadelphia, PA, 19106. All rights reserved.
+
+855-4-LINODE (855-454-6633) Intl.: +1 609-380-7100 Email us
+
+You have received this email because you indicated that you'd like to receive updates and tips about your Linode account. To unsubscribe or change your email preferences: Subscription Center
+
+Support | Community | Product Docs | Guides

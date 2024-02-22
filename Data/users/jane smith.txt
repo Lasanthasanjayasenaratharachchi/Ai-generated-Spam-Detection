@@ -1,0 +1,40 @@
+Summary:
+Passionate Cyber Security student with a strong desire to contribute to the protection of digital systems and data. Eager to learn and explore various cybersecurity domains to combat emerging threats effectively.
+
+Education:
+
+Bachelor of Science in Cyber Security | ABC University | Expected Graduation: December 2023
+Certifications:
+
+Certified Ethical Hacker (CEH) | EC-Council | Certified in April 2023
+CompTIA Security+ | CompTIA | Certified in July 2023
+Skills:
+
+Network Security
+Ethical Hacking
+Incident Response
+Vulnerability Assessment
+Cryptography
+Security Tools: Wireshark, Burp Suite, Metasploit
+Programming Languages: Python, Bash
+Projects:
+
+Network Penetration Testing:
+
+Conducted ethical hacking exercises to assess network security and identify vulnerabilities.
+Provided detailed reports with recommendations to enhance the organization's cybersecurity posture.
+Cybersecurity Capture The Flag (CTF) Competitions:
+
+Participated in CTF challenges to develop practical skills in solving security puzzles.
+Collaborated with teams to strategize and tackle complex cybersecurity scenarios.
+Interests:
+
+Cybersecurity Research and Innovations
+Cyber Threat Intelligence
+Cybersecurity Conferences and Workshops
+Bug Bounty Programs
+Cybersecurity Advocacy and Awareness
+Contact:
+
+Email: jane.smith@email.com
+LinkedIn: linkedin.com/in/janesmith

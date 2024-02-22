@@ -1,0 +1,18 @@
+Hi Alex,
+
+I hope this email finds you well. I wanted to reach out to you to introduce you to our course on Practical Ethical Hacking. As a dedicated Cyber Security student focused on honing your ethical hacking skills, I believe this course could greatly benefit you in achieving your interests and expertise as an aspiring Ethical Hacker.
+
+Our Practical Ethical Hacking course is designed to provide a hands-on learning experience, covering both foundational aspects and advanced techniques. It is suitable for both beginners and those with prior knowledge in the field. The course explores various topics such as network security, penetration testing, incident response, and cryptography, all of which are essential skills for success in the cybersecurity landscape.
+
+By enrolling in Practical Ethical Hacking, you will have the opportunity to gain proficiency in Python and learn the five stages of hacking. Additionally, the course covers topics such as open-source intelligence, subdomain hunting, and exploit development, giving you practical knowledge and tools to enhance your ethical hacking skills.
+
+We are currently offering a special promotion of a 20% discount on this course for the first 100 students. You can access the course and avail of this discount by visiting the following URL: [course URL].
+
+I believe that Practical Ethical Hacking will not only expand your knowledge and skills but also provide you with valuable career guidance and insights. It will equip you with the expertise needed to navigate the cybersecurity landscape and stay ahead in this ever-evolving field.
+
+If you have any questions or would like further information, please feel free to reach out to me. I'm here to assist you. 
+
+Thank you,
+Greg
+
+Unsubscribe: [unsubscribe URL]

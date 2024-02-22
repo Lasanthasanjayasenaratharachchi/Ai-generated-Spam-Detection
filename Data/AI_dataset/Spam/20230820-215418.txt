@@ -1,0 +1,14 @@
+Hi Jane,
+
+I hope this email finds you well. My name is Greg, a sales rep from XYZ-Edu. I noticed your passion for cybersecurity and your proficiency in Python and Bash. I thought you might be interested in expanding your programming skills with the Rust language, which is increasingly popular in the cybersecurity field due to its safety and concurrency features.
+
+Our course, Rust 101, is a comprehensive guide that covers core concepts like memory management and ownership, improving your overall development skills and enhancing your aptitude as a programmer. By integrating Rust into your skill set, you can elevate your cybersecurity career to the next level.
+
+Since you're an avid learner, I'm thrilled to offer you an exclusive 20% discount for being among the first 100 students to enrol. Use this link to explore the course: https://academy.xyz-edu.com/p/rust-101
+
+We understand that receiving irrelevant emails can be frustrating. If you wish to stop receiving emails from us, you can unsubscribe at any time using this link: https://xyz-edu.com/newsletter/unsubscribe
+
+Thank you for considering this opportunity, Jane. I believe Rust 101 will provide immense value to you.
+
+Best,
+Greg
